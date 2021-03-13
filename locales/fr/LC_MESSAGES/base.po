@@ -1,0 +1,56 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-03-13 18:24+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+#: bot.py:56
+msgid "ECO_TITLE"
+msgstr ""
+
+#: bot.py:58
+msgid "ECO_DESCRIPTION"
+msgstr ""
+
+#: bot.py:64
+msgid "ECO_FIELD1_NAME"
+msgstr ""
+
+#: bot.py:65
+msgid "ECO_FIELD1_VALUE"
+msgstr ""
+
+#: bot.py:74
+msgid "POINTS_TITLE"
+msgstr ""
+
+#: bot.py:76
+msgid "POINTS_DESCRIPTION"
+msgstr ""
+
+#: bot.py:82
+msgid "POINTS_FIELD1_NAME"
+msgstr ""
+
+#: bot.py:83
+msgid "POINTS_FIELD1_VALUE"
+msgstr ""
+
+#: bot.py:90
+msgid "Available commands for Eco-FAQ-bot"
+msgstr ""
+
+#: bot.py:91
+msgid "Help"
+msgstr ""
