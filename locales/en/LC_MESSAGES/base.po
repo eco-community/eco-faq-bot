@@ -22,13 +22,12 @@ msgstr "ECO"
 #: bot.py:58
 msgid "ECO_DESCRIPTION"
 msgstr ""
-"Eco is not a bank. Eco App is a single wallet for savings and expenses. It "
-"gives users 2.5% (and up to 5%) per annum on deposits, plus 5% cashback in "
-"Amazon, Uber and others"
+"Eco is not a bank. Eco is an application that offers users a unique opportunity to have a high interest saving account with up to 5% APY, "
+"as well as a spending account that always gives 5% cashback on purchases with a growing number of merchants (e.g. Amazon, Uber and others)"
 
 #: bot.py:64
 msgid "ECO_FIELD1_NAME"
-msgstr "About project"
+msgstr "About the project"
 
 #: bot.py:65
 msgid "ECO_FIELD1_VALUE"
@@ -36,26 +35,26 @@ msgstr ""
 "**Investors:** a16z crypto, Founders Fund, Activant Capital, Slow Ventures, "
 "Coinbase Ventures, Tribe Capital, Valor Capital Group and others\n"
 "**Funds raised:** $35,000,000\n"
-"**What is the team working on now:** over the international extension and "
+"**Platform features currently being worked by the team:** expanding to international markets beyond US and support of "
 "the Android platform\n"
-"**How to get the Eco App:** now only from beta testers by referral link\n"
-"**Where can I use the app?:** USA\n"
+"**How to get the Eco app:** via a referral link from one of the beta testers\n"
+"**Where can I use the app?:** in the United States and in an eligible state (Eco is not yet available in HI, TX, NY, CT, NH, VA or VT.)\n"
 "**What platform does the app run on?:** iOS\n"
-"**What currency is used in Eco App:** USD, USDC\n"
-"**Is the Eco FDIC bill covered?:** no\n"
-"**Is there a charge for using Eco:** no"
+"**What currency is used in Eco app:** USD, USDC\n"
+"**Are funds transferred to Eco all insured by FDIC?:** no\n"
+"**Is there a fee for using Eco:** no"
 
 #: bot.py:74
 msgid "POINTS_TITLE"
-msgstr "ECO Points"
+msgstr "Eco Points"
 
 #: bot.py:76
 msgid "POINTS_DESCRIPTION"
-msgstr "ECO Points are only needed for research purposes"
+msgstr "Eco points are used only for research purposes"
 
 #: bot.py:82
 msgid "POINTS_FIELD1_NAME"
-msgstr "Learn more about Points"
+msgstr "Learn more about Eco points"
 
 #: bot.py:83
 msgid "POINTS_FIELD1_VALUE"
@@ -65,12 +64,12 @@ msgstr ""
 "**How to send Eco points:** enter the command\n"
 "`!send @username number comment`\n"
 "**How to earn Eco points:**\n"
-"1. To participate in bounty contests #content-bounties\n"
-"2. To participate in the discussions in #general and #Economics\n"
+"1. Participate in bounty contests #content-bounties\n"
+"2. Participate in discussions in #general and #eco-nomics\n"
 "3. Follow the channels, participate in contests\n"
-"4. To do invitations in section #invite-thank-yous Only a large number of "
-"invitations will bring points\n"
-"5. Make original (without vulgarity) memes in the #meme-lab section"
+"4. Invite people to the project and they can thank you in the #invite-thank-yous section. Only users with a large number of "
+"invitees will get points\n"
+"5. Create original (without vulgarity) memes in the #meme-lab section"
 
 #: bot.py:93
 msgid "ECO Pinned Messages"
@@ -78,7 +77,7 @@ msgstr "How to find pinned messages?"
 
 #: bot.py:103
 msgid "NAVIGATION_TITLE"
-msgstr "ECO Navigation"
+msgstr "Eco Navigation"
 
 #: bot.py:105
 msgid "NAVIGATION_TITLE_DESCRIPTION"
@@ -91,13 +90,13 @@ msgstr "Main channels"
 #: bot.py:112
 msgid "NAVIGATION_TITLE_FIELD1_VALUE"
 msgstr ""
-"#🏁start-here - became Layer 1 here\n"
-"#🚀general - the basic communication in English here\n"
-"#📈crypto-chat - chat about crypto, in addition to ECO\n"
-"#🙏invite-thank-yous here to submit invited to thank you for invite\n"
-"#🗺geo-tagging you can mark your location in Google map along with other "
-"members of the ECO community\n"
-"#🏧check-your-points - see how many Points you have"
+"#🏁start-here - become Layer 1 here\n"
+"#🚀general - general discussion about the project in English\n"
+"#📈crypto-chat - chat about crypto, in addition to Eco\n"
+"#🙏invite-thank-yous - here you can thank people who invited you to the project\n"
+"#🗺geo-tagging - you can pin your location on Google Maps and see where other "
+"members of the ECO community are from\n"
+"#🏧check-your-points - see how many points you have"
 
 #: bot.py:116
 msgid "NAVIGATION_TITLE_FIELD2_NAME"
@@ -106,19 +105,19 @@ msgstr "Content chats"
 #: bot.py:117
 msgid "NAVIGATION_TITLE_FIELD2_VALUE"
 msgstr ""
-"#🧪meme-lab - send your memes here, only decent\n"
-"#✅top memes - here a bot automatically sends most popular memes\n"
-"#🖼eco-art - submit your creative works about ECO - pictures, videos, "
+"#🧪meme-lab - send your memes here, only decent ones\n"
+"#✅top memes - most popular memes are picked and posted here by the bot\n"
+"#🖼eco-art - submit your creative work about ECO - pictures, videos, and "
 "everything that does not fit in meme and marketing\n"
 "#📹marketing-materials - submit quality ECO marketing materials (brochures, "
 "posters, merchandise, animation and so on)\n"
-"#🏅content-bounties - here are announced the current bounty contests from the "
-"Eco Team (submit works in the appropriate channel, for example content-"
+"#🏅content-bounties - the most recent information about bounty contests is posted here by the "
+"Eco Team (submit your works in the appropriate channel, for example content-"
 "bounty-006\n"
-"#🗳content-bounty-voting - vote for the work after admins will announce the "
-"results\n"
+"#🗳content-bounty-voting - vote for the work you like and see the voting results announced by "
+"admins\n"
 "#📣eco-nft-announcements - information about first released ECO-NFT\n"
-"#🧮eco-nomics - communication about the economy ECO, and all related to it\n"
+"#🧮eco-nomics - communication about the ECO economy and other related information\n"
 "#🛎points-bartering - here you can earn points or transfer them to others for "
 "completing tasks"
 
@@ -131,7 +130,7 @@ msgid "NAVIGATION_TITLE_FIELD3_VALUE"
 msgstr ""
 "#🇰🇷kr-eco - the main channel for the KR-community\n"
 "#🇷🇺ru-eco - the main channel for the RU-community\n"
-"#🇷🇺🌊ru-flood - here evil Russians talk not on the topic:D\n"
+"#🇷🇺🌊ru-flood - off-topic chatter in RU\n"
 "#🇫🇷fr-eco - the main channel for the FR-community\n"
 "#🌏other-languages - for all other languages, search for like-minded people"
 
@@ -149,7 +148,7 @@ msgstr "Basic information about the project"
 
 #: bot.py:140
 msgid "FAQ_POINTS_CMD"
-msgstr "What are ECO Points and how to earn them?"
+msgstr "What are the ECO points and how to earn them?"
 
 #: bot.py:144
 msgid "FAQ_NAVIGATION_CMD"
@@ -157,4 +156,4 @@ msgstr "Help with server navigation, list of main channels"
 
 #: bot.py:148
 msgid "FAQ_PINNED_CMD"
-msgstr "A hint for beginners on how to find pinned messages in Discord. (screenshot)"
+msgstr "A hint for beginners on how to find pinned messages in Discord (screenshot)"
