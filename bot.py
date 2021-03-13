@@ -109,23 +109,43 @@ async def points(ctx, _):
     )
     widget.add_field(
         name=_("NAVIGATION_TITLE_FIELD1_NAME"),
-        value=_("NAVIGATION_TITLE_FIELD1_VALUE")
+        value=_("NAVIGATION_TITLE_FIELD1_VALUE"),
+        inline=False
+    )
+    widget.add_field(
+        name=_("NAVIGATION_TITLE_FIELD2_NAME"),
+        value=_("NAVIGATION_TITLE_FIELD2_VALUE"),
+        inline=False
+    )
+    widget.add_field(
+        name=_("NAVIGATION_TITLE_FIELD3_NAME"),
+        value=_("NAVIGATION_TITLE_FIELD3_VALUE"),
+        inline=False
     )
     await ctx.send(embed=widget)
 
 
 @bot.command('help')
-async def help(ctx):
+@resolve_language
+async def help(ctx, _):
     widget = Embed(description=_("Available commands for Eco-FAQ-bot"), color=0x03d692,
                    title=_("Help"))
     widget.set_thumbnail(
         url="https://pbs.twimg.com/profile_images/1366064859574661124/Ocl4oSnU_400x400.jpg")
     widget.add_field(
-        name="$invites.stats_all",
-        value=f"`Displays a list of all invitation links`\n", inline=False)
+        name="faq.eco",
+        value=_("FAQ_ECO_CMD"), inline=False)
     widget.add_field(
-        name="$invites.stats_uses",
-        value="`Displays a list of all invitation links with uses > 0`", inline=False
+        name="faq.points",
+        value=_("FAQ_POINTS_CMD"), inline=False
+    )
+    widget.add_field(
+        name="faq.navigation",
+        value=_("FAQ_NAVIGATION_CMD"), inline=False
+    )
+    widget.add_field(
+        name="faq.pinned",
+        value=_("FAQ_PINNED_CMD"), inline=False
     )
     await ctx.send(embed=widget)
 
