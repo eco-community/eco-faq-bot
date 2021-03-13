@@ -85,6 +85,35 @@ async def points(ctx, _):
     await ctx.send(embed=widget)
 
 
+@bot.command('pinned')
+@resolve_language
+async def points(ctx, _):
+    widget = Embed(color=0x03d692)
+    widget.set_author(
+        name=_("ECO Pinned Messages"), icon_url="https://eco-bots.s3.eu-north-1.amazonaws.com/eco_large.png")
+    widget.set_image(
+        url="https://user-images.githubusercontent.com/61438668/111036517-a535df80-8430-11eb-9c58-413d8aa08c83.png")
+    await ctx.send(embed=widget)
+
+
+@bot.command('navigation')
+@resolve_language
+async def points(ctx, _):
+    widget = Embed(
+        title=_("NAVIGATION_TITLE"),
+        color=0x03d692,
+        description=_("NAVIGATION_TITLE_DESCRIPTION")
+    )
+    widget.set_thumbnail(
+        url="https://eco-bots.s3.eu-north-1.amazonaws.com/eco_large.png"
+    )
+    widget.add_field(
+        name=_("NAVIGATION_TITLE_FIELD1_NAME"),
+        value=_("NAVIGATION_TITLE_FIELD1_VALUE")
+    )
+    await ctx.send(embed=widget)
+
+
 @bot.command('help')
 async def help(ctx):
     widget = Embed(description=_("Available commands for Eco-FAQ-bot"), color=0x03d692,

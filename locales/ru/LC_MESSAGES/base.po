@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-03-13 18:24+0300\n"
+"POT-Creation-Date: 2021-03-13 19:30+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,24 +48,56 @@ msgstr ""
 
 #: bot.py:74
 msgid "POINTS_TITLE"
-msgstr ""
+msgstr "ECO Points"
 
 #: bot.py:76
 msgid "POINTS_DESCRIPTION"
-msgstr ""
+msgstr "ECO поинты нужны только для исследовательских целей"
 
 #: bot.py:82
 msgid "POINTS_FIELD1_NAME"
-msgstr ""
+msgstr "Подробнее о поинтах"
 
 #: bot.py:83
 msgid "POINTS_FIELD1_VALUE"
 msgstr ""
+"**Чтобы проверить сколько у васpoints:** введите команду `!points` в разделе "
+"#check-your-ᵽoints\n"
+"**Как отправить Eco points:** введите команду\n"
+"`!send @username number комментарий`\n"
+"**Как заработать Eco points:**\n"
+"1. Участвовать в баунти конкурсах #content-bounties\n"
+"2. Участвовать в дискуссиях в #general и #eco-nomics\n"
+"3. Следить за каналами #ru, смотреть закрепленные сообщения, участвовать в "
+"конкурсах #ru\n"
+"4. Делать инвайты в разделе #invite-thank-yous  Только большое количество "
+"приглашенных принесет points\n"
+"5. Делать оригинальные (без пошлости) мемы в разделе #meme-lab"
 
-#: bot.py:90
+#: bot.py:93
+msgid "ECO Pinned Messages"
+msgstr ""
+
+#: bot.py:103
+msgid "NAVIGATION_TITLE"
+msgstr ""
+
+#: bot.py:105
+msgid "NAVIGATION_TITLE_DESCRIPTION"
+msgstr ""
+
+#: bot.py:111
+msgid "NAVIGATION_TITLE_FIELD1_NAME"
+msgstr ""
+
+#: bot.py:112
+msgid "NAVIGATION_TITLE_FIELD1_VALUE"
+msgstr ""
+
+#: bot.py:119
 msgid "Available commands for Eco-FAQ-bot"
 msgstr "Доступные команды Eco-FAQ бота"
 
-#: bot.py:91
+#: bot.py:120
 msgid "Help"
 msgstr "Текст для хелп команды"

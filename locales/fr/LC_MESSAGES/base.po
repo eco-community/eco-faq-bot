@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-03-13 18:24+0300\n"
+"POT-Creation-Date: 2021-03-13 19:30+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -47,10 +47,30 @@ msgstr ""
 msgid "POINTS_FIELD1_VALUE"
 msgstr ""
 
-#: bot.py:90
+#: bot.py:93
+msgid "ECO Pinned Messages"
+msgstr ""
+
+#: bot.py:103
+msgid "NAVIGATION_TITLE"
+msgstr ""
+
+#: bot.py:105
+msgid "NAVIGATION_TITLE_DESCRIPTION"
+msgstr ""
+
+#: bot.py:111
+msgid "NAVIGATION_TITLE_FIELD1_NAME"
+msgstr ""
+
+#: bot.py:112
+msgid "NAVIGATION_TITLE_FIELD1_VALUE"
+msgstr ""
+
+#: bot.py:119
 msgid "Available commands for Eco-FAQ-bot"
 msgstr ""
 
-#: bot.py:91
+#: bot.py:120
 msgid "Help"
 msgstr ""
