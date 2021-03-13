@@ -131,7 +131,7 @@ async def help(ctx, _):
     widget = Embed(description=_("Available commands for Eco-FAQ-bot"), color=0x03d692,
                    title=_("Help"))
     widget.set_thumbnail(
-        url="https://pbs.twimg.com/profile_images/1366064859574661124/Ocl4oSnU_400x400.jpg")
+        url="https://eco-bots.s3.eu-north-1.amazonaws.com/eco_large.png")
     widget.add_field(
         name="faq.eco",
         value=_("FAQ_ECO_CMD"), inline=False)
