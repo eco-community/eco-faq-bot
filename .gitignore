@@ -70,9 +70,6 @@ coverage.xml
 .pytest_cache/
 test-results.xml
 
-# Translations
-*.mo
-
 # Scrapy stuff:
 .scrapy
 
