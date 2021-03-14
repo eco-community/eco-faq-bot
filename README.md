@@ -13,5 +13,6 @@ A bot that can answer FAQ questions related to ECO Discord
 
 # Installation
 1. Install requirements from `requirements.txt` for `Python 3`
-2. Start bot via `python bot.py`
-3. Start using bot via sending `faq.help` command
+2. Generate local files via `./generate-locales.sh`
+3. Start bot via `python bot.py`
+4. Start using bot via sending `faq.help` command
