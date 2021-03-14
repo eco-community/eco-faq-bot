@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-03-13 21:24+0300\n"
+"POT-Creation-Date: 2021-03-15 00:48+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -15,94 +15,94 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: pygettext.py 1.5\n"
 
-#: bot.py:56
+#: bot.py:59
 msgid "ECO_TITLE"
 msgstr ""
 
-#: bot.py:58
+#: bot.py:61
 msgid "ECO_DESCRIPTION"
 msgstr ""
 
-#: bot.py:64
+#: bot.py:67
 msgid "ECO_FIELD1_NAME"
 msgstr ""
 
-#: bot.py:65
+#: bot.py:68
 msgid "ECO_FIELD1_VALUE"
 msgstr ""
 
-#: bot.py:74
+#: bot.py:77
 msgid "POINTS_TITLE"
 msgstr ""
 
-#: bot.py:76
+#: bot.py:79
 msgid "POINTS_DESCRIPTION"
 msgstr ""
 
-#: bot.py:82
+#: bot.py:85
 msgid "POINTS_FIELD1_NAME"
 msgstr ""
 
-#: bot.py:83
+#: bot.py:86
 msgid "POINTS_FIELD1_VALUE"
 msgstr ""
 
-#: bot.py:93
+#: bot.py:96
 msgid "ECO Pinned Messages"
 msgstr ""
 
-#: bot.py:103
+#: bot.py:106
 msgid "NAVIGATION_TITLE"
 msgstr ""
 
-#: bot.py:105
+#: bot.py:108
 msgid "NAVIGATION_TITLE_DESCRIPTION"
 msgstr ""
 
-#: bot.py:111
+#: bot.py:114
 msgid "NAVIGATION_TITLE_FIELD1_NAME"
 msgstr ""
 
-#: bot.py:112
+#: bot.py:115
 msgid "NAVIGATION_TITLE_FIELD1_VALUE"
 msgstr ""
 
-#: bot.py:116
+#: bot.py:119
 msgid "NAVIGATION_TITLE_FIELD2_NAME"
 msgstr ""
 
-#: bot.py:117
+#: bot.py:120
 msgid "NAVIGATION_TITLE_FIELD2_VALUE"
 msgstr ""
 
-#: bot.py:121
+#: bot.py:124
 msgid "NAVIGATION_TITLE_FIELD3_NAME"
 msgstr ""
 
-#: bot.py:122
+#: bot.py:125
 msgid "NAVIGATION_TITLE_FIELD3_VALUE"
 msgstr ""
 
-#: bot.py:131
+#: bot.py:134
 msgid "Available commands for Eco-FAQ-bot"
 msgstr ""
 
-#: bot.py:132
+#: bot.py:135
 msgid "Help"
 msgstr ""
 
-#: bot.py:137
+#: bot.py:140
 msgid "FAQ_ECO_CMD"
 msgstr ""
 
-#: bot.py:140
+#: bot.py:143
 msgid "FAQ_POINTS_CMD"
 msgstr ""
 
-#: bot.py:144
+#: bot.py:147
 msgid "FAQ_NAVIGATION_CMD"
 msgstr ""
 
-#: bot.py:148
+#: bot.py:151
 msgid "FAQ_PINNED_CMD"
 msgstr ""
