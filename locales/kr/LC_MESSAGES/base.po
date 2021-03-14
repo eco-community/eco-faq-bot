@@ -17,92 +17,139 @@ msgstr ""
 
 #: bot.py:56
 msgid "ECO_TITLE"
-msgstr "zxcxzc"
+msgstr "Eco"
 
 #: bot.py:58
 msgid "ECO_DESCRIPTION"
-msgstr "zxzxc"
+msgstr ""
+"Eco는 은행이 아닙니다. 에코는 잔고의 최대 5%의 이자와, 여러 매장에서 5% 캐시백을 지급합니다."
+"또한 조만간 Eco를 통해 고지서 납부라던지 친구에게 돈을 보낼 수 있습니다. 고객의 금융 라이프는 간단하면서도 보상이 넘칠 것 입니다."
 
 #: bot.py:64
 msgid "ECO_FIELD1_NAME"
-msgstr ""
+msgstr "프로젝트 요약"
 
 #: bot.py:65
 msgid "ECO_FIELD1_VALUE"
 msgstr ""
+"**투자자:** a16z crypto, Founders Fund, Activant Capital, Slow Ventures, "
+"Coinbase Ventures, Tribe Capital, Valor Capital Group 등\n"
+"**투자유치액:** $35,000,000 이상\n"
+"**플랫폼 작업:** 고지서 납부기능, 인앱 기능 추가, 미국을 너머 국제 시장으로 확대,"
+"안드로이드폰 지원\n"
+"**Eco 앱 설치방법:** Eco.com에서 가입 또는 베타테스터 레퍼럴 링크\n"
+"**앱은 어디서 사용가능한가요?:** 미국내 가능한 주(Eco는 아직 HI, TX, NY, CT, NH, VA, VT에서는 사용이 불가합니다.)\n"
+"**앱은 어떤 플랫폼에서 운영되나요?:** iOS\n"
+"**Eco앱에서는 어떤 화폐가 사용되나요?:** USD와 USDC(backend)\n"
+"**Eco는 FDIC 보험이 적용되나요?:** 아니오\n"
+"**Eco는 사용료가 있나요?:** 아니오"
 
 #: bot.py:74
 msgid "POINTS_TITLE"
-msgstr ""
+msgstr "Eco 포인트"
 
 #: bot.py:76
 msgid "POINTS_DESCRIPTION"
-msgstr ""
+msgstr "Eco 포인트는 리서치 목적으로 사용됩니다."
 
 #: bot.py:82
 msgid "POINTS_FIELD1_NAME"
-msgstr ""
+msgstr "Eco 포인트에 대해 더 알아보세요"
 
 #: bot.py:83
 msgid "POINTS_FIELD1_VALUE"
 msgstr ""
+"**보유 포인트 확인 방법:** `!points` 명령어를"
+"#check-your-points 섹션에 입력하세요\n"
+"**Eco 포인트 보내기:** `!send @username number comment` 명령어를\n"
+"입력하세요\n"
+"**Eco 포인트 모으기:**\n"
+"1. #content-bounties 섹션의 바운티를 완료하시고 #points-bartering 섹션의 활동을 하세요\n"
+"2. #general, #eco-nomics 등의 섹션에서 토론에 참여하세요\n"
+"3. 채널들을 팔로우하시고, 대화 및 경연에 참여하세요\n"
+"4. 사람들을 초대하시고, 초대된 사람들이 #invite-thank-yous 섹션에 'Thank you' 글을 남기게 하세요."
+"많은 초대를 한 유저들에게만 포인트가 부여됩니다.\n"
+"5. #meme-lab 섹션에 밈을 만들어 주세요(음란물 제외)"
+"6. 프로젝트에 대한 전반적으로 도움이 되거나 커뮤니티가 배우고 성숙하도록 도움이 되어주세요!"
 
 #: bot.py:93
 msgid "ECO Pinned Messages"
-msgstr ""
+msgstr "저장된 메시지는 어떻게 찾나요?"
 
 #: bot.py:103
 msgid "NAVIGATION_TITLE"
-msgstr ""
+msgstr "Eco 내비게이션"
 
 #: bot.py:105
 msgid "NAVIGATION_TITLE_DESCRIPTION"
-msgstr ""
+msgstr "서버에서 내비게이션 방법"
 
 #: bot.py:111
 msgid "NAVIGATION_TITLE_FIELD1_NAME"
-msgstr ""
+msgstr "메인 채널"
 
 #: bot.py:112
 msgid "NAVIGATION_TITLE_FIELD1_VALUE"
 msgstr ""
+"#🏁start-here - 여기서 Layer 0에서 Layer 1으로 이동하세요\n"
+"#🚀general - 프로젝트 관련 영어 일반 토론\n"
+"#📈crypto-chat - Eco 이외의 크립토 대화\n"
+"#🙏invite-thank-yous - 프로젝트에 초대한 사람에게 감사인사를 여기에 남기세요\n"
+"#🗺geo-tagging - 구글지도에서 당신의 위치를 표시하고, 다른 에코 멤버들은 어디있는지 볼수 있어요\n"
+"#🏧check-your-points - 포인트를 확인하세요"
 
 #: bot.py:116
 msgid "NAVIGATION_TITLE_FIELD2_NAME"
-msgstr ""
+msgstr "컨텐츠 대화"
 
 #: bot.py:117
 msgid "NAVIGATION_TITLE_FIELD2_VALUE"
 msgstr ""
+"#🧪meme-lab - 당신의 고 퀄리티 밈을 여기로 보내세요\n"
+"#✅top memes - 봇에 의해사 가장 인기있는 밈이 선택되고 여기 포스트 됩니다\n"
+"#🖼eco-art - 사진, 영상 등 밈과 마케팅에 맞지 않는 모든 창작물을 제출하세요\n"
+"#📹marketing-materials - 에코 마케팅 매체를 제출하세요submit quality Eco marketing materials (brochures, "
+"(브로셔, 포스터, 상품, 애니메이션 등)\n"
+"#🏅content-bounties - Eco 팀이 바운티 컨테스트의 가장 최근 정보를 여기에 포스팅 합니다"
+"(당신의 작품을 적절한 채널에 제출하세요 ex. #content-bounty-006)\n"
+"#🗳content-bounty-voting - 좋아하는 것에 투표하시고 결과를 확인하세요\n"
+"#📣eco-nft-announcements - 최초 배포될 Eco-NFT 관련 정보\n"
+"#🧮eco-nomics - Eco 상태계 및 그와 관련된 정보에대한 대화\n"
+"#🛎points-bartering - 여기서 포인트를 모으거나 태스크를 위해 다른 사람에게 전송할 수 있습니다."
 
 #: bot.py:121
 msgid "NAVIGATION_TITLE_FIELD3_NAME"
-msgstr ""
+msgstr "커뮤니티 채널"
 
 #: bot.py:122
 msgid "NAVIGATION_TITLE_FIELD3_VALUE"
 msgstr ""
+"#🇰🇷kr-eco - KR-커뮤니티 메인 채널\n"
+"#🇷🇺ru-eco - RU-커뮤니티 메인 채널\n"
+"#🇷🇺🌊ru-flood - RU-커뮤니티 주제외 대화\n"
+"#🇫🇷fr-eco - FR-커뮤니티 메인 채널\n"
+"#🌏other-languages - 모든 다른 언어용, 비슷한 생각을 가진 사람들을 찾아보세요"
 
 #: bot.py:131
 msgid "Available commands for Eco-FAQ-bot"
-msgstr ""
+msgstr "명령어 목록입니다."
 
 #: bot.py:132
 msgid "Help"
-msgstr ""
+msgstr "Eco-FAQ Bot 헬프"
 
 #: bot.py:137
 msgid "FAQ_ECO_CMD"
-msgstr ""
+msgstr "프로젝트 관련 기본 정보"
 
 #: bot.py:140
 msgid "FAQ_POINTS_CMD"
-msgstr ""
+msgstr "Eco 포인트는 무엇이며 어떻게 모으나요?"
 
 #: bot.py:144
 msgid "FAQ_NAVIGATION_CMD"
-msgstr ""
+msgstr "서버 내비게이션 관련 헬프, 메인채널 목록"
 
 #: bot.py:148
 msgid "FAQ_PINNED_CMD"
-msgstr ""
+msgstr "초보자를 위한 디스코드의 고정 메시지 찾는 법(스크린샷)"
