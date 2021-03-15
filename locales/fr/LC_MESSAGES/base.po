@@ -17,92 +17,145 @@ msgstr ""
 
 #: bot.py:59
 msgid "ECO_TITLE"
-msgstr ""
+msgstr "Eco"
 
 #: bot.py:61
 msgid "ECO_DESCRIPTION"
 msgstr ""
+"Eco n'est pas une banque. Eco est un compte unique qui vous donne jusqu'à 5% de APY sur vos dépôts et 5% de cashback chez un nombre croissant de commerçants."
+"En plus, bientôt, vous pourrez payer vos factures et envoyer de l'argent à vos amis via Eco. C'est un endroit simple et rémunérateur pour gérer toute votre vie financière."
+
 
 #: bot.py:67
 msgid "ECO_FIELD1_NAME"
-msgstr ""
+msgstr "A propos du projet"
 
 #: bot.py:68
 msgid "ECO_FIELD1_VALUE"
 msgstr ""
+"**Investisseurs:** a16z crypto, Founders Fund, Activant Capital, Slow Ventures, "
+"Coinbase Ventures, Tribe Capital, Valor Capital Group et autres\n"
+"**Fonds levés:** Plus de $35,000,000\n"
+"**Fonctionnalités de la plateforme actuellement en cours de développement:** paiements de factures, autres fonctionnalités intégrées à l'application, extension aux marchés internationaux"
+"au-delà des Etats-Unis et prise en charge pour les téléphones Android\n"
+"**Comment obtenir l'application Eco:** en vous connectant sur Eco.com ou par un lien de parrainage de l'un des beta-testeurs\n"
+"**Où puis-je utiliser l'application?:** aux Etats-Unis et dans un état éligible (Eco n'est pas encore disponible au HI, TX, NY, CT, NH, VA or VT.)\n"
+"**Sur quelle plateforme tourne l'application?:** iOS\n"
+"**Quelle devise est utilisée dans l'application Eco:** USD, et USDC sur le backend\n"
+"**Les fonds transférés à Eco sont-ils tous assurés par la FDIC?:** no\n"
+"**Y a-t-il des frais pour utiliser Eco:** non"
 
 #: bot.py:77
 msgid "POINTS_TITLE"
-msgstr ""
+msgstr "Points Eco"
 
 #: bot.py:79
 msgid "POINTS_DESCRIPTION"
-msgstr ""
+msgstr "Les points Eco sont uniquement destinés à des fins de recherche"
 
 #: bot.py:85
 msgid "POINTS_FIELD1_NAME"
-msgstr ""
+msgstr "En savoir plus sur les points Eco"
 
 #: bot.py:86
 msgid "POINTS_FIELD1_VALUE"
 msgstr ""
+"**Pour vérifier combien de points vous avez:** entrez la commande `!points` dans la "
+"section #check-your-points\n"
+"**Comment envoyer des points Eco:** entrez la commande\n"
+"`!send @username number comment`\n"
+"**Comment gagner des points Eco:**\n"
+"1. Concourez pour des primes dans #content-bounties et faites des activités dans #points-bartering\n"
+"2. Participez à des discussions dans #general, #eco-nomics, et partout ailleurs\n"
+"3. Suivez les canaux, participez à des conversations et des concours\n"
+"4. Invitez des personnes au projet et ils peuvent vous remercier dans la section #invite-thank-yous. Seuls les utilisateurs avec un grand nombre "
+"d'invités obtiendront des points\n"
+"5. Créez des mèmes originaux (sans vulgarité) dans la section #meme-lab"
+"6. Soyez généralement utile au project et aidez la communauté à apprendre et à grandir ensemble!"
+
 
 #: bot.py:96
 msgid "ECO Pinned Messages"
-msgstr ""
+msgstr "Comment trouver des messages épinglés?"
 
 #: bot.py:106
 msgid "NAVIGATION_TITLE"
-msgstr ""
+msgstr "Navigation Eco"
 
 #: bot.py:108
 msgid "NAVIGATION_TITLE_DESCRIPTION"
-msgstr ""
+msgstr "Instructions pour naviguer sur le serveur"
 
 #: bot.py:114
 msgid "NAVIGATION_TITLE_FIELD1_NAME"
-msgstr ""
+msgstr "Canaux principaux"
 
 #: bot.py:115
 msgid "NAVIGATION_TITLE_FIELD1_VALUE"
 msgstr ""
+"#🏁start-here - passez de la Couche 0 à la Couche 1 ici\n"
+"#🚀general - discussion générale concernant le projet en anglais\n"
+"#📈crypto-chat - chat sur les cryptos, autres que Eco\n"
+"#🙏invite-thank-yous - ici vous pouvez remercier les gens qui vous ont invité au projet\n"
+"#🗺geo-tagging - vous pouvez épingler votre position sur Google Maps et voir d'où viennent d'autres "
+"membres de la communauté Eco\n"
+"#🏧check-your-points - regardez combien de points vous avez"
 
 #: bot.py:119
 msgid "NAVIGATION_TITLE_FIELD2_NAME"
-msgstr ""
+msgstr "Chats de contenu"
 
 #: bot.py:120
 msgid "NAVIGATION_TITLE_FIELD2_VALUE"
 msgstr ""
+"#🧪meme-lab - envoyez vos mèmes ici, uniquement ceux de bonne qualité\n"
+"#✅top memes - les mèmes les plus populaires sont sélectionnés et publiés ici par un bot\n"
+"#🖼eco-art - soumettez votre travail créatif à propos d'Eco - images, vidéos, et "
+"tout ce qui ne correspond pas aux mèmes et marketing\n"
+"#📹marketing-materials - soumettez des supports marketing Eco de qualité (brochures, "
+"affiches, merchandising, animations etc)\n"
+"#🏅content-bounties - l'information la plus récente sur les concours récompensés est publiée ici par "
+"la Team Eco (soumettez vos réalisations via le canal approprié, par exemple #content-bounty-006\n"
+"#🗳content-bounty-voting - votez pour la réalisation que vous aimez et voyez les résultats de vote annoncés par "
+"administrateurs\n"
+"#📣eco-nft-announcements - information sur les premiers Eco-NFTs lancés\n"
+"#🧮eco-nomics - communication sur l'économie Eco et d'autres informations associées\n"
+"#🛎points-bartering - ici vous pouvez gagner des points ou les transférer à d'autres pour "
+"avoir réalisé des tâches"
 
 #: bot.py:124
 msgid "NAVIGATION_TITLE_FIELD3_NAME"
-msgstr ""
+msgstr "Canaux communautaires"
 
 #: bot.py:125
 msgid "NAVIGATION_TITLE_FIELD3_VALUE"
 msgstr ""
+"#🇰🇷kr-eco - le canal principal pour la communauté KR\n"
+"#🇷🇺ru-eco - le canal principal pour la communauté RU\n"
+"#🇷🇺🌊ru-flood - chat hors sujet en RU\n"
+"#🇫🇷fr-eco - le canal principal pour la communauté FR\n"
+"#🌏other-languages - pour toutes les autres langues, recherchez des personnes partageant les mêmes idées"
 
 #: bot.py:134
 msgid "Available commands for Eco-FAQ-bot"
-msgstr ""
+msgstr "Voici une liste des commandes disponibles"
 
 #: bot.py:135
 msgid "Help"
-msgstr ""
+msgstr "Aide ave le Bot Eco-FAQ"
 
 #: bot.py:140
 msgid "FAQ_ECO_CMD"
-msgstr ""
+msgstr "Informations de base sur le projet"
 
 #: bot.py:143
 msgid "FAQ_POINTS_CMD"
-msgstr ""
+msgstr "Que sont les points Eco et comment les gagner?"
 
 #: bot.py:147
 msgid "FAQ_NAVIGATION_CMD"
-msgstr ""
+msgstr "Aide à la navigation sur le serveur, liste des canaux principaux"
 
 #: bot.py:151
 msgid "FAQ_PINNED_CMD"
-msgstr ""
+msgstr "Un conseil pour les débutants sur la façon de trouver des messages épinglés dans Discord (capture d'écran)"
