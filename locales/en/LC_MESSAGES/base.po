@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-03-13 21:24+0300\n"
+"POT-Creation-Date: 2021-03-15 00:48+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -15,95 +15,107 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: pygettext.py 1.5\n"
 
-#: bot.py:56
+#: bot.py:59
 msgid "ECO_TITLE"
 msgstr "Eco"
 
-#: bot.py:58
+#: bot.py:61
 msgid "ECO_DESCRIPTION"
 msgstr ""
-"Eco is not a bank. Eco is a single balance that gives you up to 5% APY on your deposits and 5% cashback at a growing number of merchants."
-"Plus, soon, pay your bills and send money to friends through Eco. It's a simple, rewarding place for your whole financial life."
+"Eco is not a bank. Eco is a single balance that gives you up to 5% APY on "
+"your deposits and 5% cashback at a growing number of merchants. Plus, soon, "
+"pay your bills and send money to friends through Eco. It's a simple, "
+"rewarding place for your whole financial life."
 
-#: bot.py:64
+#: bot.py:67
 msgid "ECO_FIELD1_NAME"
 msgstr "About the project"
 
-#: bot.py:65
+#: bot.py:68
 msgid "ECO_FIELD1_VALUE"
 msgstr ""
 "**Investors:** a16z crypto, Founders Fund, Activant Capital, Slow Ventures, "
 "Coinbase Ventures, Tribe Capital, Valor Capital Group and others\n"
 "**Funds raised:** More than $35,000,000\n"
-"**Platform features currently being worked by the team:** bill payments, other in-app features, expanding to international markets"
-"beyond US and support for Android Phones\n"
-"**How to get the Eco app:** by signing up on Eco.com or via a referral link from one of the beta testers\n"
-"**Where can I use the app?:** in the United States and in an eligible state (Eco is not yet available in HI, TX, NY, CT, NH, VA or VT.)\n"
+"**Platform features currently being worked by the team:** bill payments, "
+"other in-app features, expanding to international markets beyond US and "
+"support for Android Phones\n"
+"**How to get the Eco app:** by signing up on Eco.com or via a referral link "
+"from one of the beta testers\n"
+"**Where can I use the app?:** in the United States and in an eligible state "
+"(Eco is not yet available in HI, TX, NY, CT, NH, VA or VT.)\n"
 "**What platform does the app run on?:** iOS\n"
 "**What currency is used in Eco app:** USD, and USDC on the backend\n"
 "**Are funds transferred to Eco all insured by FDIC?:** no\n"
 "**Is there a fee for using Eco:** no"
 
-#: bot.py:74
+#: bot.py:77
 msgid "POINTS_TITLE"
 msgstr "Eco Points"
 
-#: bot.py:76
+#: bot.py:79
 msgid "POINTS_DESCRIPTION"
 msgstr "Eco points are for research purposes only"
 
-#: bot.py:82
+#: bot.py:85
 msgid "POINTS_FIELD1_NAME"
 msgstr "Learn more about Eco points"
 
-#: bot.py:83
+#: bot.py:86
 msgid "POINTS_FIELD1_VALUE"
 msgstr ""
 "**To check how many points you have:** enter the command `!points` in the "
 "section #check-your-points\n"
 "**How to send Eco points:** enter the command\n"
 "`!send @username number comment`\n"
+"(currently does not work on mobile version of Discord\n"
 "**How to earn Eco points:**\n"
-"1. Compete in bounties in #content-bounties and do activities in #points-bartering\n"
+"1. Compete in bounties in #content-bounties and do activities in #points-"
+"bartering\n"
 "2. Participate in discussions in #general, #eco-nomics, and elsewhere\n"
 "3. Follow the channels, participate in conversations and contests\n"
-"4. Invite people to the project and they can thank you in the #invite-thank-yous section. Only users with a large number of "
-"invitees will get points\n"
-"5. Create original (without vulgarity) memes in the #meme-lab section"
-"6. Generally be helpful to the project and help the community learn and grow together!"
+"4. Invite people to the project and they can thank you in the #invite-thank-"
+"yous section. Only users with a large number of invitees will get points\n"
+"5. Create original (without vulgarity) memes in the #meme-lab section\n"
+"6. Generally be helpful to the project and help the community learn and grow "
+"together!"
 
-#: bot.py:93
+#: bot.py:96
 msgid "ECO Pinned Messages"
 msgstr "How to find pinned messages?"
 
-#: bot.py:103
+#: bot.py:106
 msgid "NAVIGATION_TITLE"
 msgstr "Eco Navigation"
 
-#: bot.py:105
+#: bot.py:108
 msgid "NAVIGATION_TITLE_DESCRIPTION"
 msgstr "Instructions for navigating on the server"
 
-#: bot.py:111
+#: bot.py:114
 msgid "NAVIGATION_TITLE_FIELD1_NAME"
 msgstr "Main channels"
 
-#: bot.py:112
+#: bot.py:115
 msgid "NAVIGATION_TITLE_FIELD1_VALUE"
 msgstr ""
+"#📣announcements - most important official announcements\n"
 "#🏁start-here - move from Layer 0 to Layer 1 here\n"
 "#🚀general - general discussion about the project in English\n"
+"#📺the-history-channel - Great moments in Eco community history\n"
 "#📈crypto-chat - chat about crypto, other than Eco\n"
-"#🙏invite-thank-yous - here you can thank people who invited you to the project\n"
+"#🙏invite-thank-yous - here you can thank people who invited you to the "
+"project\n"
 "#🗺geo-tagging - you can pin your location on Google Maps and see where other "
 "members of the Eco community are from\n"
-"#🏧check-your-points - see how many points you have"
+"#🏧check-your-points - see how many points you have\n"
+"#🔗helpful-links - links to external Eco resources"
 
-#: bot.py:116
+#: bot.py:119
 msgid "NAVIGATION_TITLE_FIELD2_NAME"
 msgstr "Content chats"
 
-#: bot.py:117
+#: bot.py:120
 msgid "NAVIGATION_TITLE_FIELD2_VALUE"
 msgstr ""
 "#🧪meme-lab - send your memes here, only high-quality ones ones\n"
@@ -112,20 +124,24 @@ msgstr ""
 "everything that does not fit in memes and marketing\n"
 "#📹marketing-materials - submit quality Eco marketing materials (brochures, "
 "posters, merchandise, animations and so on)\n"
-"#🏅content-bounties - the most recent information about bounty contests is posted here by the "
-"Eco Team (submit your works in the appropriate channel, for example #content-bounty-006\n"
-"#🗳content-bounty-voting - vote for the work you like and see the voting results announced by "
-"admins\n"
+"#🏅content-bounties - the most recent information about bounty contests is "
+"posted here by the Eco Team (submit your works in the appropriate channel, "
+"for example #content-bounty-006)\n"
+"#🗳content-bounty-voting - vote for the work you like and see the voting "
+"results announced by admins\n"
 "#📣eco-nft-announcements - information about first released Eco-NFTs\n"
-"#🧮eco-nomics - communication about the Eco economy and other related information\n"
+"#🧮eco-nomics - communication about the Eco economy and other related "
+"information\n"
 "#🛎points-bartering - here you can earn points or transfer them to others for "
-"completing tasks"
+"completing tasks\n"
+"#🎙state-of-the-discord-chat - questions for short AMA on 20-Mar-21"
 
-#: bot.py:121
+
+#: bot.py:124
 msgid "NAVIGATION_TITLE_FIELD3_NAME"
 msgstr "Community channels"
 
-#: bot.py:122
+#: bot.py:125
 msgid "NAVIGATION_TITLE_FIELD3_VALUE"
 msgstr ""
 "#🇰🇷kr-eco - the main channel for the KR-community\n"
@@ -134,26 +150,27 @@ msgstr ""
 "#🇫🇷fr-eco - the main channel for the FR-community\n"
 "#🌏other-languages - for all other languages, search for like-minded people"
 
-#: bot.py:131
+#: bot.py:134
 msgid "Available commands for Eco-FAQ-bot"
 msgstr "Below is a list of available commands"
 
-#: bot.py:132
+#: bot.py:135
 msgid "Help"
 msgstr "Help with Eco-FAQ Bot"
 
-#: bot.py:137
+#: bot.py:140
 msgid "FAQ_ECO_CMD"
 msgstr "Basic information about the project"
 
-#: bot.py:140
+#: bot.py:143
 msgid "FAQ_POINTS_CMD"
 msgstr "What are the Eco points and how to earn them?"
 
-#: bot.py:144
+#: bot.py:147
 msgid "FAQ_NAVIGATION_CMD"
 msgstr "Help with server navigation, list of main channels"
 
-#: bot.py:148
+#: bot.py:151
 msgid "FAQ_PINNED_CMD"
-msgstr "A hint for beginners on how to find pinned messages in Discord (screenshot)"
+msgstr ""
+"A hint for beginners on how to find pinned messages in Discord (screenshot)"
