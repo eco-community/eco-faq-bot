@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-03-20 16:37+0300\n"
+"POT-Creation-Date: 2021-03-20 17:10+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -170,26 +170,34 @@ msgstr "Помощь с навигацией на сервере, список �
 msgid "FAQ_PINNED_CMD"
 msgstr "Как найти закрепленные сообщения в дискорде (скриншот)"
 
-#: bot.py:120
+#: bot.py:114
+msgid "FAQ_FANCYRULES_CMD"
+msgstr ""
+
+#: bot.py:115
+msgid "FAQ_MEMERULES_CMD"
+msgstr ""
+
+#: bot.py:122
 msgid "FANCYRULES_TITLE"
 msgstr ""
 
-#: bot.py:122
+#: bot.py:124
 msgid "FANCYRULES_FIELD1_NAME"
 msgstr ""
 
-#: bot.py:122
+#: bot.py:124
 msgid "FANCYRULES_FIELD1_VALUE"
 msgstr ""
 
-#: bot.py:129
+#: bot.py:131
 msgid "MEMERULES_TITLE"
 msgstr ""
 
-#: bot.py:131
+#: bot.py:133
 msgid "MEMERULES_FIELD1_NAME"
 msgstr ""
 
-#: bot.py:131
+#: bot.py:133
 msgid "MEMERULES_FIELD1_VALUE"
 msgstr ""
