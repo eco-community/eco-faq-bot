@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-03-15 00:48+0300\n"
+"POT-Creation-Date: 2021-03-20 16:37+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -15,11 +15,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: pygettext.py 1.5\n"
 
-#: bot.py:59
-msgid "ECO_TITLE"
-msgstr "Eco"
-
-#: bot.py:61
+#: bot.py:66
 msgid "ECO_DESCRIPTION"
 msgstr ""
 "Eco - не банк. Eco - это единый баланс для сбережений и расходов. Он дает "
@@ -28,7 +24,11 @@ msgstr ""
 "Скоро станет доступна оплата счетов и отправка денег друзьям через Eco App. "
 "Здесь просто и выгодно вести все ваши финансовые дела."
 
-#: bot.py:67
+#: bot.py:66
+msgid "ECO_TITLE"
+msgstr "Eco"
+
+#: bot.py:68
 msgid "ECO_FIELD1_NAME"
 msgstr "О проекте"
 
@@ -49,19 +49,19 @@ msgstr ""
 "**Покрывает ли FDIC счет Eco:** нет\n"
 "**Взимается ли плата за использование Eco:** нет"
 
-#: bot.py:77
-msgid "POINTS_TITLE"
-msgstr "Eco Points"
-
-#: bot.py:79
+#: bot.py:75
 msgid "POINTS_DESCRIPTION"
 msgstr "Eco поинты нужны *только* для исследовательских целей"
 
-#: bot.py:85
+#: bot.py:75
+msgid "POINTS_TITLE"
+msgstr "Eco Points"
+
+#: bot.py:77
 msgid "POINTS_FIELD1_NAME"
 msgstr "Подробнее о поинтах"
 
-#: bot.py:86
+#: bot.py:77
 msgid "POINTS_FIELD1_VALUE"
 msgstr ""
 "**Чтобы проверить сколько у вас points:** введите команду `!points` в "
@@ -81,24 +81,24 @@ msgstr ""
 "6. Вносите свой вклад в развитие сообщества и проекта, помогайте другими "
 "участниками!"
 
-#: bot.py:96
+#: bot.py:86
 msgid "ECO Pinned Messages"
 msgstr "Как найти закрепленные сообщения?"
 
-#: bot.py:106
+#: bot.py:97
 msgid "NAVIGATION_TITLE"
 msgstr "Eco Навигация"
 
-#: bot.py:108
+#: bot.py:97
 msgid "NAVIGATION_TITLE_DESCRIPTION"
 msgstr "Навигация в Дискорде"
 
-#: bot.py:114
-msgid "NAVIGATION_TITLE_FIELD1_NAME"
+#: bot.py:99
+msgid "NAVIGATION_FIELD1_NAME"
 msgstr "Основные чаты"
 
-#: bot.py:115
-msgid "NAVIGATION_TITLE_FIELD1_VALUE"
+#: bot.py:99
+msgid "NAVIGATION_FIELD1_VALUE"
 msgstr ""
 "#📣announcements - официальные объявления от команды Eco\n"
 "#🏁start-here - получить роль Layer 1\n"
@@ -110,12 +110,12 @@ msgstr ""
 "можно **только** здесь\n"
 "#🔗helpful-links - ссылки на внешние ресурсы об Eco"
 
-#: bot.py:119
-msgid "NAVIGATION_TITLE_FIELD2_NAME"
+#: bot.py:100
+msgid "NAVIGATION_FIELD2_NAME"
 msgstr "Контент чаты"
 
-#: bot.py:120
-msgid "NAVIGATION_TITLE_FIELD2_VALUE"
+#: bot.py:100
+msgid "NAVIGATION_FIELD2_VALUE"
 msgstr ""
 "#🧪meme-lab - делайте и скидывайте сюда мемы, см. закреп канала\n"
 "#✅top-memes - сюда **бот** выкладывает самые популярные мемы\n"
@@ -133,12 +133,12 @@ msgstr ""
 "задания\n"
 "#🎙state-of-the-discord-chat - вопросы к предстоящему АМА 20 марта"
 
-#: bot.py:124
-msgid "NAVIGATION_TITLE_FIELD3_NAME"
+#: bot.py:101
+msgid "NAVIGATION_FIELD3_NAME"
 msgstr "Комьюнити разделы"
 
-#: bot.py:125
-msgid "NAVIGATION_TITLE_FIELD3_VALUE"
+#: bot.py:101
+msgid "NAVIGATION_FIELD3_VALUE"
 msgstr ""
 "#🇰🇷kr-eco - основной канал для KR-сообщества\n"
 "#🇷🇺ru-eco - основной канал для RU-сообщества, конкурсы, переводы\n"
@@ -146,26 +146,50 @@ msgstr ""
 "#🇫🇷fr-eco - основной канал для FR-сообщества\n"
 "#🌏other-languages - для всех остальных языков, поиск единомышленников"
 
-#: bot.py:134
+#: bot.py:108
 msgid "Available commands for Eco-FAQ-bot"
 msgstr "Ниже приведен список доступных команд"
 
-#: bot.py:135
+#: bot.py:108
 msgid "Help"
 msgstr "Помощь с Eco-FAQ ботом"
 
-#: bot.py:140
+#: bot.py:110
 msgid "FAQ_ECO_CMD"
 msgstr "Основная информация о проекте"
 
-#: bot.py:143
+#: bot.py:111
 msgid "FAQ_POINTS_CMD"
 msgstr "Что такое поинты и как их заработать"
 
-#: bot.py:147
+#: bot.py:112
 msgid "FAQ_NAVIGATION_CMD"
 msgstr "Помощь с навигацией на сервере, список основных каналов"
 
-#: bot.py:151
+#: bot.py:113
 msgid "FAQ_PINNED_CMD"
 msgstr "Как найти закрепленные сообщения в дискорде (скриншот)"
+
+#: bot.py:120
+msgid "FANCYRULES_TITLE"
+msgstr ""
+
+#: bot.py:122
+msgid "FANCYRULES_FIELD1_NAME"
+msgstr ""
+
+#: bot.py:122
+msgid "FANCYRULES_FIELD1_VALUE"
+msgstr ""
+
+#: bot.py:129
+msgid "MEMERULES_TITLE"
+msgstr ""
+
+#: bot.py:131
+msgid "MEMERULES_FIELD1_NAME"
+msgstr ""
+
+#: bot.py:131
+msgid "MEMERULES_FIELD1_VALUE"
+msgstr ""

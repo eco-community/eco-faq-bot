@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-03-15 00:48+0300\n"
+"POT-Creation-Date: 2021-03-20 16:37+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -15,18 +15,18 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: pygettext.py 1.5\n"
 
-#: bot.py:59
-msgid "ECO_TITLE"
-msgstr "Eco"
-
-#: bot.py:61
+#: bot.py:66
 msgid "ECO_DESCRIPTION"
 msgstr ""
 "Eco는 은행이 아닙니다. 에코는 잔고의 최대 5%의 이자와, 여러 매장에서 5% 캐시"
 "백을 지급합니다.또한 조만간 Eco를 통해 고지서 납부라던지 친구에게 돈을 보낼 "
 "수 있습니다. 고객의 금융 라이프는 간단하면서도 보상이 넘칠 것 입니다."
 
-#: bot.py:67
+#: bot.py:66
+msgid "ECO_TITLE"
+msgstr "Eco"
+
+#: bot.py:68
 msgid "ECO_FIELD1_NAME"
 msgstr "프로젝트 요약"
 
@@ -46,19 +46,19 @@ msgstr ""
 "**Eco는 FDIC 보험이 적용되나요?:** 아니오\n"
 "**Eco는 사용료가 있나요?:** 아니오"
 
-#: bot.py:77
-msgid "POINTS_TITLE"
-msgstr "Eco 포인트"
-
-#: bot.py:79
+#: bot.py:75
 msgid "POINTS_DESCRIPTION"
 msgstr "Eco 포인트는 리서치 목적으로 사용됩니다."
 
-#: bot.py:85
+#: bot.py:75
+msgid "POINTS_TITLE"
+msgstr "Eco 포인트"
+
+#: bot.py:77
 msgid "POINTS_FIELD1_NAME"
 msgstr "Eco 포인트에 대해 더 알아보세요"
 
-#: bot.py:86
+#: bot.py:77
 msgid "POINTS_FIELD1_VALUE"
 msgstr ""
 "**보유 포인트 확인 방법:** `!points` 명령어를#check-your-points 섹션에 입력하"
@@ -76,24 +76,24 @@ msgstr ""
 "6. 프로젝트에 대한 전반적으로 도움이 되거나 커뮤니티가 배우고 성숙하도록 도움"
 "이 되어주세요!"
 
-#: bot.py:96
+#: bot.py:86
 msgid "ECO Pinned Messages"
 msgstr "저장된 메시지는 어떻게 찾나요?"
 
-#: bot.py:106
+#: bot.py:97
 msgid "NAVIGATION_TITLE"
 msgstr "Eco 내비게이션"
 
-#: bot.py:108
+#: bot.py:97
 msgid "NAVIGATION_TITLE_DESCRIPTION"
 msgstr "서버에서 내비게이션 방법"
 
-#: bot.py:114
-msgid "NAVIGATION_TITLE_FIELD1_NAME"
+#: bot.py:99
+msgid "NAVIGATION_FIELD1_NAME"
 msgstr "메인 채널"
 
-#: bot.py:115
-msgid "NAVIGATION_TITLE_FIELD1_VALUE"
+#: bot.py:99
+msgid "NAVIGATION_FIELD1_VALUE"
 msgstr ""
 "#🏁start-here - 여기서 Layer 0에서 Layer 1으로 이동하세요\n"
 "#🚀general - 프로젝트 관련 영어 일반 토론\n"
@@ -103,12 +103,12 @@ msgstr ""
 "있는지 볼수 있어요\n"
 "#🏧check-your-points - 포인트를 확인하세요"
 
-#: bot.py:119
-msgid "NAVIGATION_TITLE_FIELD2_NAME"
+#: bot.py:100
+msgid "NAVIGATION_FIELD2_NAME"
 msgstr "컨텐츠 대화"
 
-#: bot.py:120
-msgid "NAVIGATION_TITLE_FIELD2_VALUE"
+#: bot.py:100
+msgid "NAVIGATION_FIELD2_VALUE"
 msgstr ""
 "#🧪meme-lab - 당신의 고 퀄리티 밈을 여기로 보내세요\n"
 "#✅top memes - 봇에 의해사 가장 인기있는 밈이 선택되고 여기 포스트 됩니다\n"
@@ -123,12 +123,12 @@ msgstr ""
 "#🛎points-bartering - 여기서 포인트를 모으거나 태스크를 위해 다른 사람에게 전"
 "송할 수 있습니다."
 
-#: bot.py:124
-msgid "NAVIGATION_TITLE_FIELD3_NAME"
+#: bot.py:101
+msgid "NAVIGATION_FIELD3_NAME"
 msgstr "커뮤니티 채널"
 
-#: bot.py:125
-msgid "NAVIGATION_TITLE_FIELD3_VALUE"
+#: bot.py:101
+msgid "NAVIGATION_FIELD3_VALUE"
 msgstr ""
 "#🇰🇷kr-eco - KR-커뮤니티 메인 채널\n"
 "#🇷🇺ru-eco - RU-커뮤니티 메인 채널\n"
@@ -136,26 +136,50 @@ msgstr ""
 "#🇫🇷fr-eco - FR-커뮤니티 메인 채널\n"
 "#🌏other-languages - 모든 다른 언어용, 비슷한 생각을 가진 사람들을 찾아보세요"
 
-#: bot.py:134
+#: bot.py:108
 msgid "Available commands for Eco-FAQ-bot"
 msgstr "명령어 목록입니다."
 
-#: bot.py:135
+#: bot.py:108
 msgid "Help"
 msgstr "Eco-FAQ Bot 헬프"
 
-#: bot.py:140
+#: bot.py:110
 msgid "FAQ_ECO_CMD"
 msgstr "프로젝트 관련 기본 정보"
 
-#: bot.py:143
+#: bot.py:111
 msgid "FAQ_POINTS_CMD"
 msgstr "Eco 포인트는 무엇이며 어떻게 모으나요?"
 
-#: bot.py:147
+#: bot.py:112
 msgid "FAQ_NAVIGATION_CMD"
 msgstr "서버 내비게이션 관련 헬프, 메인채널 목록"
 
-#: bot.py:151
+#: bot.py:113
 msgid "FAQ_PINNED_CMD"
 msgstr "초보자를 위한 디스코드의 고정 메시지 찾는 법(스크린샷)"
+
+#: bot.py:120
+msgid "FANCYRULES_TITLE"
+msgstr ""
+
+#: bot.py:122
+msgid "FANCYRULES_FIELD1_NAME"
+msgstr ""
+
+#: bot.py:122
+msgid "FANCYRULES_FIELD1_VALUE"
+msgstr ""
+
+#: bot.py:129
+msgid "MEMERULES_TITLE"
+msgstr ""
+
+#: bot.py:131
+msgid "MEMERULES_FIELD1_NAME"
+msgstr ""
+
+#: bot.py:131
+msgid "MEMERULES_FIELD1_VALUE"
+msgstr ""

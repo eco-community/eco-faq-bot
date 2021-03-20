@@ -96,9 +96,9 @@ async def pinned(ctx, _):
 async def navigation(ctx, _):
     widget = Embed(title=_("NAVIGATION_TITLE"), color=0x03D692, description=_("NAVIGATION_TITLE_DESCRIPTION"))
     widget.set_thumbnail(url="https://eco-bots.s3.eu-north-1.amazonaws.com/eco_large.png")
-    widget.add_field(name=_("NAVIGATION_TITLE_FIELD1_NAME"), value=_("NAVIGATION_TITLE_FIELD1_VALUE"), inline=False)
-    widget.add_field(name=_("NAVIGATION_TITLE_FIELD2_NAME"), value=_("NAVIGATION_TITLE_FIELD2_VALUE"), inline=False)
-    widget.add_field(name=_("NAVIGATION_TITLE_FIELD3_NAME"), value=_("NAVIGATION_TITLE_FIELD3_VALUE"), inline=False)
+    widget.add_field(name=_("NAVIGATION_FIELD1_NAME"), value=_("NAVIGATION_FIELD1_VALUE"), inline=False)
+    widget.add_field(name=_("NAVIGATION_FIELD2_NAME"), value=_("NAVIGATION_FIELD2_VALUE"), inline=False)
+    widget.add_field(name=_("NAVIGATION_FIELD3_NAME"), value=_("NAVIGATION_FIELD3_VALUE"), inline=False)
     await ctx.send(embed=widget)
 
 
@@ -111,6 +111,24 @@ async def help(ctx, _):
     widget.add_field(name="faq.points", value=_("FAQ_POINTS_CMD"), inline=False)
     widget.add_field(name="faq.navigation", value=_("FAQ_NAVIGATION_CMD"), inline=False)
     widget.add_field(name="faq.pinned", value=_("FAQ_PINNED_CMD"), inline=False)
+    await ctx.send(embed=widget)
+
+
+@bot.command("fancyrules")
+@resolve_language
+async def fancy_rules(ctx, _):
+    widget = Embed(title=_("FANCYRULES_TITLE"), color=0x03D692)
+    widget.set_thumbnail(url="https://eco-bots.s3.eu-north-1.amazonaws.com/eco_large.png")
+    widget.add_field(name=_("FANCYRULES_FIELD1_NAME"), value=_("FANCYRULES_FIELD1_VALUE"), inline=False)
+    await ctx.send(embed=widget)
+
+
+@bot.command("memerules")
+@resolve_language
+async def meme_rules(ctx, _):
+    widget = Embed(title=_("MEMERULES_TITLE"), color=0x03D692)
+    widget.set_thumbnail(url="https://eco-bots.s3.eu-north-1.amazonaws.com/eco_large.png")
+    widget.add_field(name=_("MEMERULES_FIELD1_NAME"), value=_("MEMERULES_FIELD1_VALUE"), inline=False)
     await ctx.send(embed=widget)
 
 
