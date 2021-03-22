@@ -157,7 +157,7 @@ msgstr "Voici une liste des commandes disponibles"
 
 #: bot.py:108
 msgid "Help"
-msgstr "Aide ave le Bot Eco-FAQ"
+msgstr "Aide avec le Bot Eco-FAQ"
 
 #: bot.py:110
 msgid "FAQ_ECO_CMD"
@@ -179,32 +179,46 @@ msgstr ""
 
 #: bot.py:114
 msgid "FAQ_FANCYRULES_CMD"
-msgstr ""
+msgstr "Consignes pour soumettre des mèmes dans le canal #top-meme"
 
 #: bot.py:115
 msgid "FAQ_MEMERULES_CMD"
-msgstr ""
+msgstr "Consignes générales pour les mèmes Eco"
 
 #: bot.py:122
 msgid "FANCYRULES_TITLE"
-msgstr ""
+msgstr "Règles pour les idées fantaisies Eco"
 
 #: bot.py:124
 msgid "FANCYRULES_FIELD1_NAME"
-msgstr ""
+msgstr ":sparkles: Pour les travaux hors mèmes de grande qualité relatifs à Eco :sparkles:"
 
 #: bot.py:124
 msgid "FANCYRULES_FIELD1_VALUE"
 msgstr ""
+"Nous supprimerons activement ici pour maintenir une qualité et une pertinence élevées. \ N"
+"Si vous ne savez pas où quelque chose doit aller, cela va probablement dans #:"
+"test_tube: meme-lab \ n"
+"Animations, montage vidéo, rédaction, supports marketing ... et n'hésitez pas à"
+"discuter et (gentiment) critiquer le travail ici aussi :grinning:"
 
 #: bot.py:131
 msgid "MEMERULES_TITLE"
-msgstr ""
+msgstr "Règles des mèmes Eco"
 
 #: bot.py:133
 msgid "MEMERULES_FIELD1_NAME"
-msgstr ""
+msgstr ":rotating_light:QUELQUES REGLES DE BASE:rotating_light:"
 
 #: bot.py:133
 msgid "MEMERULES_FIELD1_VALUE"
 msgstr ""
+"1. Gardez les mèmes PROPRES - ils seront supprimés et vous serez averti le cas échéant"
+"le contenu est inapproprié.:trophy:\n"
+"2. La qualité plutôt que la quantité, s'il vous plaît :grinning: \ n"
+"3. Les meilleurs mèmes rapportent des points. La créativité est récompensée :wink: nous aimons les nouvelles idées. \ N"
+"4. Partager des mèmes ailleurs rapporte des points. Plus il y a de portée, plus il y a de points"
+":thinking: \ n"
+"5. Besoin d'idées? #:military_medal: content-bounties\n"
+"6. Si vous continuez à republier votre mème, vous n'obtiendrez aucun point et vous pourriez être éjecté"
+":leg:"
