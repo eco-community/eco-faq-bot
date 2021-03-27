@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-03-20 17:10+0300\n"
+"POT-Creation-Date: 2021-03-27 19:51+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -185,40 +185,60 @@ msgstr "Consignes pour soumettre des mèmes dans le canal #top-meme"
 msgid "FAQ_MEMERULES_CMD"
 msgstr "Consignes générales pour les mèmes Eco"
 
-#: bot.py:122
+#: bot.py:116
+msgid "FAQ_MARKETINGRULES_CMD"
+msgstr ""
+
+#: bot.py:123
 msgid "FANCYRULES_TITLE"
 msgstr "Règles pour les idées fantaisies Eco"
 
-#: bot.py:124
+#: bot.py:125
 msgid "FANCYRULES_FIELD1_NAME"
-msgstr ":sparkles: Pour les travaux hors mèmes de grande qualité relatifs à Eco :sparkles:"
+msgstr ""
+":sparkles: Pour les travaux hors mèmes de grande qualité relatifs à Eco :"
+"sparkles:"
 
-#: bot.py:124
+#: bot.py:125
 msgid "FANCYRULES_FIELD1_VALUE"
 msgstr ""
-"Nous supprimerons activement ici pour maintenir une qualité et une pertinence élevées. \n"
-"Si vous ne savez pas où quelque chose doit aller, cela va probablement dans #:"
-"test_tube: meme-lab \n"
-"Animations, montage vidéo, rédaction, supports marketing ... et n'hésitez pas à"
-"discuter et (gentiment) critiquer le travail ici aussi :grinning:"
+"Nous supprimerons activement ici pour maintenir une qualité et une "
+"pertinence élevées. \n"
+"Si vous ne savez pas où quelque chose doit aller, cela va probablement dans "
+"#:test_tube: meme-lab \n"
+"Animations, montage vidéo, rédaction, supports marketing ... et n'hésitez "
+"pas àdiscuter et (gentiment) critiquer le travail ici aussi :grinning:"
 
-#: bot.py:131
+#: bot.py:132
 msgid "MEMERULES_TITLE"
 msgstr "Règles des mèmes Eco"
 
-#: bot.py:133
+#: bot.py:134
 msgid "MEMERULES_FIELD1_NAME"
 msgstr ":rotating_light:QUELQUES REGLES DE BASE:rotating_light:"
 
-#: bot.py:133
+#: bot.py:134
 msgid "MEMERULES_FIELD1_VALUE"
 msgstr ""
-"1. Gardez les mèmes PROPRES - ils seront supprimés et vous serez averti le cas échéant"
-"le contenu est inapproprié.:trophy:\n"
+"1. Gardez les mèmes PROPRES - ils seront supprimés et vous serez averti le "
+"cas échéantle contenu est inapproprié.:trophy:\n"
 "2. La qualité plutôt que la quantité, s'il vous plaît :grinning: \n"
-"3. Les meilleurs mèmes rapportent des points. La créativité est récompensée :wink: nous aimons les nouvelles idées. \n"
-"4. Partager des mèmes ailleurs rapporte des points. Plus il y a de portée, plus il y a de points"
-":thinking: \n"
+"3. Les meilleurs mèmes rapportent des points. La créativité est récompensée :"
+"wink: nous aimons les nouvelles idées. \n"
+"4. Partager des mèmes ailleurs rapporte des points. Plus il y a de portée, "
+"plus il y a de points:thinking: \n"
 "5. Besoin d'idées? #:military_medal: content-bounties\n"
-"6. Si vous continuez à republier votre mème, vous n'obtiendrez aucun point et vous pourriez être éjecté"
-":leg:"
+"6. Si vous continuez à republier votre mème, vous n'obtiendrez aucun point "
+"et vous pourriez être éjecté:leg:"
+
+#: bot.py:140
+msgid "MARKETINGRULES_TITLE"
+msgstr ""
+
+#: bot.py:142
+msgid "MARKETINGRULES_FIELD1_NAME"
+msgstr ""
+
+#: bot.py:142
+msgid "MARKETINGRULES_FIELD1_VALUE"
+msgstr ""

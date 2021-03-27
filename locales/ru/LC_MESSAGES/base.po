@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-03-20 17:10+0300\n"
+"POT-Creation-Date: 2021-03-27 19:51+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -179,42 +179,58 @@ msgstr "Правила для работ в канале #eco-art"
 msgid "FAQ_MEMERULES_CMD"
 msgstr "Общие правила Eco мемов"
 
-#: bot.py:122
+#: bot.py:116
+msgid "FAQ_MARKETINGRULES_CMD"
+msgstr ""
+
+#: bot.py:123
 msgid "FANCYRULES_TITLE"
 msgstr "Eco свод правил"
 
-#: bot.py:124
+#: bot.py:125
 msgid "FANCYRULES_FIELD1_NAME"
 msgstr ":sparkles: для работ высокого качества (не мемов) об Eco :sparkles: "
 
-#: bot.py:124
+#: bot.py:125
 msgid "FANCYRULES_FIELD1_VALUE"
 msgstr ""
 "Мы будем тщательно модерировать работы для поддержания высокого уровня "
 "качества и актуальности\n"
-"Если вы не можете решить, подходит ли ваша работа в этот канал, отправьте "
-" ее в #:test_tube: meme-lab\n"
-"Анимации, видео-монтаж, текстовые работы, маркетинговые материалы (цифровые "
-" и физические)... а так же добрая критика и обсуждение работ :grinning:"
+"Если вы не можете решить, подходит ли ваша работа в этот канал, отправьте  "
+"ее в #:test_tube: meme-lab\n"
+"Анимации, видео-монтаж, текстовые работы, маркетинговые материалы (цифровые  "
+"и физические)... а так же добрая критика и обсуждение работ :grinning:"
 
-#: bot.py:131
+#: bot.py:132
 msgid "MEMERULES_TITLE"
 msgstr "Правила Eco мемов"
 
-#: bot.py:133
+#: bot.py:134
 msgid "MEMERULES_FIELD1_NAME"
 msgstr ":rotating_light:НЕСКОЛЬКО КЛЮЧЕВЫХ ПРАВИЛ:rotating_light:"
 
-#: bot.py:133
+#: bot.py:134
 msgid "MEMERULES_FIELD1_VALUE"
 msgstr ""
 "1. Держите мемы в ЧИСТОТЕ - они будут удалены, и вы будете предупреждены, "
 "если какой-либо контент окажется неуместным.\n"
 "2. Качество важнее количества :grinning:\n"
-"3. Лучшие мемы получают Eco поинты. Креативность вознаграждается. "
-"Нам нравятся новые идеи\n"
-"4. 4. Публикация мемов в других медиа приносит поинты. Чем больше охват, "
-"тем больше поинтов :thinking:\n"
+"3. Лучшие мемы получают Eco поинты. Креативность вознаграждается. Нам "
+"нравятся новые идеи\n"
+"4. 4. Публикация мемов в других медиа приносит поинты. Чем больше охват, тем "
+"больше поинтов :thinking:\n"
 "5. Нужны идеи? #:military_medal:content-bounties\n"
-"6. Если вы будете репостить свой мем снова и снова, вы не получите поинтов "
-" и вас могут кикнуть :leg:"
+"6. Если вы будете репостить свой мем снова и снова, вы не получите поинтов  "
+"и вас могут кикнуть :leg:"
+
+#: bot.py:140
+msgid "MARKETINGRULES_TITLE"
+msgstr ""
+
+#: bot.py:142
+msgid "MARKETINGRULES_FIELD1_NAME"
+msgstr ""
+
+#: bot.py:142
+msgid "MARKETINGRULES_FIELD1_VALUE"
+msgstr ""

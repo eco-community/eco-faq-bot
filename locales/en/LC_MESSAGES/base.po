@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-03-20 17:10+0300\n"
+"POT-Creation-Date: 2021-03-27 19:51+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -78,9 +78,11 @@ msgstr ""
 "yous section. Only users with a large number of invitees will get points\n"
 "5. Create original (without vulgarity) memes in the #meme-lab section\n"
 "6. Generally be helpful to the project and help the community learn and grow "
-"together!\n\n"
+"together!\n"
+"\n"
 "And remember, points are for research purposes only for now, but you never "
-"know what can happen when something starts out as a toy! :brain: :upside_down:"
+"know what can happen when something starts out as a toy! :brain: :"
+"upside_down:"
 
 #: bot.py:86
 msgid "ECO Pinned Messages"
@@ -132,7 +134,8 @@ msgstr ""
 "#🗳content-bounty-voting - vote for the work you like and see the voting "
 "results announced by admins\n"
 "#📣eco-nft-announcements - information about first released Eco-NFTs\n"
-"#🦸eco-unsung-heroes - voting for major contributors among community each week\n"
+"#🦸eco-unsung-heroes - voting for major contributors among community each "
+"week\n"
 "#🧮eco-nomics - communication about the Eco economy and other related "
 "information\n"
 "#🛎points-bartering - here you can earn points or transfer them to others for "
@@ -185,15 +188,19 @@ msgstr "Guidelines for submitting memes in the #top-meme channel"
 msgid "FAQ_MEMERULES_CMD"
 msgstr "General Eco Meme guidelines"
 
-#: bot.py:122
+#: bot.py:116
+msgid "FAQ_MARKETINGRULES_CMD"
+msgstr "General Eco Marketing guidelines"
+
+#: bot.py:123
 msgid "FANCYRULES_TITLE"
 msgstr "Eco Art Rules"
 
-#: bot.py:124
+#: bot.py:125
 msgid "FANCYRULES_FIELD1_NAME"
 msgstr ":sparkles: For high-quality non-meme work related to Eco :sparkles: "
 
-#: bot.py:124
+#: bot.py:125
 msgid "FANCYRULES_FIELD1_VALUE"
 msgstr ""
 "We will aggressively delete in here to keep quality and relevance high.\n"
@@ -202,23 +209,41 @@ msgstr ""
 "Animations, video editing, writing, marketing materials... and feel free to "
 "discuss and (kindly) critique work in here as well :grinning:"
 
-#: bot.py:131
+#: bot.py:132
 msgid "MEMERULES_TITLE"
 msgstr "Eco Meme Rules"
 
-#: bot.py:133
+#: bot.py:134
 msgid "MEMERULES_FIELD1_NAME"
 msgstr ":rotating_light:A FEW GROUND RULES:rotating_light:"
 
-#: bot.py:133
+#: bot.py:134
 msgid "MEMERULES_FIELD1_VALUE"
 msgstr ""
 "1. Keep the memes CLEAN — they will be deleted and you will be warned if any "
 "content is inappropriate.:trophy:\n"
 "2. Quality over quantity, please:grinning:\n"
 "3. Best memes get points. Creativity is rewarded:wink: We like new ideas.\n"
-"4. Sharing memes elsewhere gets points. The more reach, the more points"
-":thinking:\n"
+"4. Sharing memes elsewhere gets points. The more reach, the more points:"
+"thinking:\n"
 "5. Need ideas? #:military_medal:content-bounties\n"
 "6. If you keep reposting your meme, you won’t get any points and may get "
 "kicked:leg:"
+
+#: bot.py:140
+msgid "MARKETINGRULES_TITLE"
+msgstr "Eco Marketing Rules"
+
+#: bot.py:142
+msgid "MARKETINGRULES_FIELD1_NAME"
+msgstr ":rotating_light: A FEW GROUND RULES :rotating_light:"
+
+#: bot.py:142
+msgid "MARKETINGRULES_FIELD1_VALUE"
+msgstr ""
+"1. Keep all content CLEAN please — it will be deleted and you will be warned if any content is inappropriate.:trophy:\n"
+"2. Quality over quantity, please :grinning:\n"
+"3. Creativity is rewarded, we love originality and will reward with points. (all forms of media are encouraged.)\n"
+"4. We'd love to see anything you think would look good with an Eco logo on it! :laughing:\n"
+"5. If you keep reposting your work, you won’t get any points and may get kicked :leg:\n"
+"**here you go, thanks so much!** :slight_smile:"

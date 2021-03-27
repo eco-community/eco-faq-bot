@@ -113,6 +113,7 @@ async def help(ctx, _):
     widget.add_field(name="faq.pinned", value=_("FAQ_PINNED_CMD"), inline=False)
     widget.add_field(name="faq.artrules", value=_("FAQ_FANCYRULES_CMD"), inline=False)
     widget.add_field(name="faq.memerules", value=_("FAQ_MEMERULES_CMD"), inline=False)
+    widget.add_field(name="faq.marketingrules", value=_("FAQ_MARKETINGRULES_CMD"), inline=False)
     await ctx.send(embed=widget)
 
 
@@ -133,6 +134,13 @@ async def meme_rules(ctx, _):
     widget.add_field(name=_("MEMERULES_FIELD1_NAME"), value=_("MEMERULES_FIELD1_VALUE"), inline=False)
     await ctx.send(embed=widget)
 
+@bot.command("marketingrules")
+@resolve_language
+async def marketing_rules(ctx, _):
+    widget = Embed(title=_("MARKETINGRULES_TITLE"), color=0x03D692)
+    widget.set_thumbnail(url="https://eco-bots.s3.eu-north-1.amazonaws.com/eco_large.png")
+    widget.add_field(name=_("MARKETINGRULES_FIELD1_NAME"), value=_("MARKETINGRULES_FIELD1_VALUE"), inline=False)
+    await ctx.send(embed=widget)
 
 if __name__ == "__main__":
     bot.run(config.TOKEN)
