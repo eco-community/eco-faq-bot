@@ -177,7 +177,7 @@ msgstr "일반 Eco 밈 가이드라인"
 
 #: bot.py:122
 msgid "FANCYRULES_TITLE"
-msgstr "Eco Fancy 규칙"
+msgstr "Eco Art 규칙"
 
 #: bot.py:124
 msgid "FANCYRULES_FIELD1_NAME"

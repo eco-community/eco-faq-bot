@@ -187,7 +187,7 @@ msgstr "General Eco Meme guidelines"
 
 #: bot.py:122
 msgid "FANCYRULES_TITLE"
-msgstr "Eco Fancy Rules"
+msgstr "Eco Art Rules"
 
 #: bot.py:124
 msgid "FANCYRULES_FIELD1_NAME"
