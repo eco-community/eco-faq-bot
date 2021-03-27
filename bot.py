@@ -111,12 +111,12 @@ async def help(ctx, _):
     widget.add_field(name="faq.points", value=_("FAQ_POINTS_CMD"), inline=False)
     widget.add_field(name="faq.navigation", value=_("FAQ_NAVIGATION_CMD"), inline=False)
     widget.add_field(name="faq.pinned", value=_("FAQ_PINNED_CMD"), inline=False)
-    widget.add_field(name="faq.fancyrules", value=_("FAQ_FANCYRULES_CMD"), inline=False)
+    widget.add_field(name="faq.artrules", value=_("FAQ_FANCYRULES_CMD"), inline=False)
     widget.add_field(name="faq.memerules", value=_("FAQ_MEMERULES_CMD"), inline=False)
     await ctx.send(embed=widget)
 
 
-@bot.command("fancyrules")
+@bot.command("artrules")
 @resolve_language
 async def fancy_rules(ctx, _):
     widget = Embed(title=_("FANCYRULES_TITLE"), color=0x03D692)
