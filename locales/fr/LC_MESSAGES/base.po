@@ -187,7 +187,7 @@ msgstr "Consignes générales pour les mèmes Eco"
 
 #: bot.py:116
 msgid "FAQ_MARKETINGRULES_CMD"
-msgstr ""
+msgstr "Consignes générales sur les règles Marketing d'Eco"
 
 #: bot.py:123
 msgid "FANCYRULES_TITLE"
