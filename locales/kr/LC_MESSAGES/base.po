@@ -178,17 +178,21 @@ msgstr "#top-meme 채널에 밈을 제출하는 방법"
 
 #: bot.py:115
 msgid "FAQ_MEMERULES_CMD"
-msgstr "일반 Eco 밈 가이드라인"
+msgstr "Eco 밈 가이드라인"
 
-#: bot.py:122
+#: bot.py:116
+msgid "FAQ_MARKETINGRULES_CMD"
+msgstr "Eco 마케팅 가이드라인"
+
+#: bot.py:123
 msgid "FANCYRULES_TITLE"
-msgstr "Eco Fancy 규칙"
+msgstr "Eco Art 규칙"
 
-#: bot.py:124
+#: bot.py:125
 msgid "FANCYRULES_FIELD1_NAME"
 msgstr ":sparkles: Eco와 관련된 밈이 아닌 고 퀄리티 작품은 여기로 :sparkles:"
 
-#: bot.py:124
+#: bot.py:125
 msgid "FANCYRULES_FIELD1_VALUE"
 msgstr ""
 "이곳에서는 질과 관련성을 높게 유지하기 위해 많은 작품을 삭제할 예정입니다.\n"
@@ -197,15 +201,15 @@ msgstr ""
 "애니메이션, 비디오 편집, 글, 마케팅 관련 창작물 등 모두 포함입니다."
 "그리고 작품에 관해 편하게 토론하고 비판(친절하게) 하세요 :grinning:"
 
-#: bot.py:131
+#: bot.py:132
 msgid "MEMERULES_TITLE"
 msgstr "Eco 밈 규칙"
 
-#: bot.py:133
+#: bot.py:134
 msgid "MEMERULES_FIELD1_NAME"
 msgstr ":rotating_light: 몇가지 기본 규칙 :rotating_light:"
 
-#: bot.py:133
+#: bot.py:134
 msgid "MEMERULES_FIELD1_VALUE"
 msgstr ""
 "1. 밈을 '깨끗'하게 유지하세요 — 적절하지 않은 컨텐츠는 삭제되고, "
