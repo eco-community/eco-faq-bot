@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-04-04 03:00+0300\n"
+"POT-Creation-Date: 2021-03-20 17:10+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,9 +18,10 @@ msgstr ""
 #: bot.py:66
 msgid "ECO_DESCRIPTION"
 msgstr ""
-"Eco는 은행이 아닙니다. 에코는 잔고의 최대 5%의 이자와,여러 매장에서 5% 캐시백"
-"을 지급합니다.조만간 Eco를 통해 고지서 납부라던지 친구에게 돈을 보낼 수 있습"
-"니다.고객의 금융 라이프는 간단하면서도 보상이 넘칠 것 입니다."
+"Eco는 은행이 아닙니다. 에코는 잔고의 최대 5%의 이자와,"
+"여러 매장에서 5% 캐시백을 지급합니다."
+"조만간 Eco를 통해 고지서 납부라던지 친구에게 돈을 보낼 수 있습니다."
+"고객의 금융 라이프는 간단하면서도 보상이 넘칠 것 입니다."
 
 #: bot.py:66
 msgid "ECO_TITLE"
@@ -36,11 +37,12 @@ msgstr ""
 "**투자자:** a16z crypto, Founders Fund, Activant Capital, Slow Ventures, "
 "Coinbase Ventures, Tribe Capital, Valor Capital Group 등\n"
 "**투자유치액:** $35,000,000 이상\n"
-"**플랫폼 작업:** 고지서 납부기능 등 인앱 기능 추가,미국을 너머 국제 시장으로 "
-"플래폼 확대,안드로이드폰 플랫폼 지원\n"
+"**플랫폼 작업:** 고지서 납부기능 등 인앱 기능 추가,"
+"미국을 너머 국제 시장으로 플래폼 확대,"
+"안드로이드폰 플랫폼 지원\n"
 "**Eco 앱 설치방법:** Eco.com에서 가입 또는 베타테스터 레퍼럴 링크\n"
-"**앱은 어디서 사용가능한가요?:** 미국내 가능한 주(Eco는 아직 HI, TX, NY, CT, "
-"NH, VA, VT에서는 사용이 불가합니다.)\n"
+"**앱은 어디서 사용가능한가요?:** 미국내 가능한 주"
+"(Eco는 아직 HI, TX, NY, CT, NH, VA, VT에서는 사용이 불가합니다.)\n"
 "**앱은 어떤 플랫폼에서 운영되나요?:** iOS\n"
 "**Eco앱에서는 어떤 화폐가 사용되나요?:** USD와 USDC(backend)\n"
 "**Eco는 FDIC 보험이 적용되나요?:** 아니오\n"
@@ -61,23 +63,23 @@ msgstr "Eco 포인트에 대해 더 알아보세요"
 #: bot.py:77
 msgid "POINTS_FIELD1_VALUE"
 msgstr ""
-"**보유 포인트 확인 방법:** `!points` 명령어를#check-your-points 섹션에 입력하"
-"세요\n"
+"**보유 포인트 확인 방법:** `!points` 명령어를"
+"#check-your-points 섹션에 입력하세요\n"
 "**Eco 포인트 보내기:** `!send @username number comment` 명령어를\n"
 "입력하세요\n"
 "(현재 모바일 버전 디스코드에서 사용불가)\n"
 "**Eco 포인트 모으기:**\n"
-"1. #content-bounties 섹션의 바운티를 완료하시고 #points-bartering 섹션에서 활"
-"동하세요\n"
+"1. #content-bounties 섹션의 바운티를 완료하시고 #points-bartering 섹션에서 활동하세요\n"
 "2. #general, #eco-nomics 등의 섹션에서 토론에 참여하세요\n"
 "3. 채널들을 팔로우하시고, 대화 및 경연에 참여하세요\n"
-"4. 사람들을 초대하시고, 초대된 사람들이 #invite-thank-yous 섹션에 'Thank "
-"you' 글을 남기게 하세요.많은 초대를 한 유저들에게만 포인트가 부여됩니다.\n"
+"4. 사람들을 초대하시고, 초대된 사람들이 #invite-thank-yous 섹션에 'Thank you' 글을 남기게 하세요."
+"많은 초대를 한 유저들에게만 포인트가 부여됩니다.\n"
 "5. #meme-lab 섹션에 밈을 만들어 주세요(음란물 제외)\n"
-"6. 프로젝트에 대한 전반적으로 도움이 되거나 커뮤니티가 배우고 성숙하도록 도움"
-"이 되어주세요!\n"
-"그리고 지금은 포인트가 리서치 목적으로만 사용되지만,나중에는 무슨일이 벌어질"
-"지 모른다는 것을 기억하세요 :brain: :upside_down:"
+"6. 프로젝트에 대한 전반적으로 도움이 되거나 커뮤니티가 배우고 성숙하도록 도움이 되어주세요!"
+"\n"
+"그리고 지금은 포인트가 리서치 목적으로만 사용되지만,"
+"나중에는 무슨일이 벌어질지 모른다는 것을 기억하세요 :brain: :upside_down:"
+
 
 #: bot.py:86
 msgid "ECO Pinned Messages"
@@ -93,98 +95,105 @@ msgstr "서버에서 내비게이션 방법"
 
 #: bot.py:99
 msgid "NAVIGATION_FIELD1_NAME"
-msgstr "메인 채널"
+msgstr "Welcome"
 
 #: bot.py:99
 msgid "NAVIGATION_FIELD1_VALUE"
 msgstr ""
-"#📣announcements - 가장 중요한 공식발표\n"
 "#🏁start-here - 여기서 Layer 0에서 Layer 1이 되어보세요\n"
-"#🚀general - 프로젝트 관련 영어 일반 토론\n"
-"#📺the-history-channel - Eco 커뮤니티 역사의 전당\n"
-"#📈crypto-chat - Eco 이외의 크립토 대화\n"
-"#🙏invite-thank-yous - 프로젝트에 초대한 사람에게 감사인사를 여기에 남기세요\n"
-"#🗺geo-tagging - 구글지도에서 당신의 위치를 표시하고,다른 에코 멤버들은 어디있"
-"는지 볼수 있어요\n"
-"#🏧check-your-points - 포인트를 확인하세요\n"
-"#🔗helpful-links - 외부 Eco 자료 링크"
+"#📣announcements - 가장 중요한 공식발표\n"
+"#🔗helpful-links - 외부 Eco 자료 링크\n"
+"#🔈eco-twitter - Eco 트위터 계정의 리트윗\n"
+"#📺the-history-channel - Eco 커뮤니티 역사의 전당"
 
 #: bot.py:100
 msgid "NAVIGATION_FIELD2_NAME"
-msgstr "컨텐츠 대화"
+msgstr "토론"
 
 #: bot.py:100
 msgid "NAVIGATION_FIELD2_VALUE"
 msgstr ""
-"#🧪meme-lab - 당신의 고 퀄리티 밈을 여기로 보내세요\n"
-"#✅top memes - 봇에 의해 가장 인기있는 밈이 선택되고 여기 포스팅 됩니다\n"
-"#🖼eco-art - 사진, 영상 등 모든 창작물을 제출하세요(밈과 마케팅 채널에 맞지않"
-"는 창작물)\n"
-"#📹marketing-materials - 에코 마케팅에 관련된 것들을 제출하세요(브로셔, 포스"
-"터, 상품, 애니메이션 등)\n"
-"#🏅content-bounties - Eco 팀이 바운티 컨테스트의 가장 최근 정보를 여기에 포스"
-"팅 합니다. (당신의 작품을 적절한 채널에 제출하세요ex. #content-bounty-006)\n"
-"#🗳content-bounty-voting - 좋아하는 작품에 투표하시고 결과를 확인하세요\n"
-"#📣eco-nft-announcements - 최초 배포될 Eco-NFT 관련 정보\n"
-"#🦸eco-unsung-heroes - 주간 커뮤니티 주요 기여자 투표\n"
-"#🧮eco-nomics - Eco 상태계 및 그와 관련된 정보에대한 대화\n"
-"#🛎points-bartering - 여기서 포인트를 모으거나 태스크를 위해 다른 사람에게전송"
-"할 수 있습니다.\n"
-"#🎙state-of-the-discord-chat - 20-Mar-21 짧은 AMA를 위한 질문"
+"#🚀general - 프로젝트 관련 영어 일반 토론\n"
+"#📈crypto-chat - Eco 이외의 크립토 대화"
 
 #: bot.py:101
 msgid "NAVIGATION_FIELD3_NAME"
-msgstr "커뮤니티 채널"
+msgstr "메커니즘"
 
 #: bot.py:101
+msgid "NAVIGATION_FIELD3_VALUE"
+msgstr ""
+"#🧮eco-nomics - Eco 상태계 및 그와 관련된 정보에대한 대화\n"
+"#📜governance - 디스코드내 거버넌스 제안\n"
+"#🛎points-bartering - 여기서 포인트를 모으거나 태스크를 위해 다른 사람에게"
+"전송할 수 있습니다.\n"
+"#🏧check-your-points - 포인트를 확인하세요\n"
+"#🔎history-submissions - #📺the-history-channel에 제출"
+
+#: bot.py:102
+msgid "NAVIGATION_FIELD4_NAME"
+msgstr "컨텐츠"
+
+#: bot.py:102
+msgid "NAVIGATION_FIELD1_VALUE"
+msgstr ""
+"#🧪meme-lab - 당신의 고 퀄리티 밈을 여기로 보내세요\n"
+"#✅top memes - 봇에 의해 가장 인기있는 밈이 선택되고 여기 포스팅 됩니다\n"
+"#🖼eco-art - 사진, 영상 등 모든 창작물을 제출하세요"
+"(밈과 마케팅 채널에 맞지않는 창작물)\n"
+"#📹marketing-materials - 에코 마케팅에 관련된 것들을 제출하세요"
+"(브로셔, 포스터, 상품, 애니메이션 등)\n"
+"#🛠content-workshop - 바운티 제출물을 업그레이드하세요\n"
+"#🙏invite-thank-yous - 프로젝트에 초대한 사람에게 감사인사를 여기에 남기세요\n"
+"#🗺geo-tagging - 구글지도에서 당신의 위치를 표시하고,"
+"다른 에코 멤버들은 어디있는지 볼수 있어요\n"
+
+#: bot.py:103
+msgid "NAVIGATION_FIELD5_NAME"
+msgstr "진행중인 바운티"
+
+#: bot.py:103
+msgid "NAVIGATION_FIELD5_VALUE"
+msgstr ""
+"#🏅content-bounties - 바운티 컨테스트 관련 최신 정보는"
+"여기에 포스팅 됩니다.(작품을 알맞은 채널에 제출하세요, "
+"ex. #content-bounty-006)\n"
+"#🏆other-bounties - 그외 바운티를 위한 채널\n"
+"#🏹content-bounty-NNN - #NNN 바운티를 여기에 제출하세요\n"
+"#🗳content-bounty-voting - 좋아하는 작품에 투표하시고 결과를 확인하세요\n"
+"#🦸eco-unsung-heroes - 주간 커뮤니티 주요 기여자 투표"
+
+#: bot.py:104
+msgid "NAVIGATION_FIELD6_NAME"
+msgstr "Society"
+
+#: bot.py:104
+msgid "NAVIGATION_FIELD6_VALUE"
+msgstr "#🛸how-to-onboard - 앱 접속 방법"
+
+#: bot.py:105
+msgid "NAVIGATION_FIELD3_NAME"
+msgstr "다른 언어 채널"
+
+#: bot.py:105
 msgid "NAVIGATION_FIELD3_VALUE"
 msgstr ""
 "#🇰🇷kr-eco - KR-커뮤니티 메인 채널\n"
 "#🇷🇺ru-eco - RU-커뮤니티 메인 채널\n"
 "#🇷🇺🌊ru-flood - RU-커뮤니티 주제외 대화\n"
 "#🇫🇷fr-eco - FR-커뮤니티 메인 채널\n"
-"#🌏other-languages - 모든 다른 언어용 채널, 비슷한 생각을 가진 사람들을 찾아보"
-"세요"
-
-#: bot.py:102
-msgid "NAVIGATION_FIELD4_NAME"
-msgstr ""
-
-#: bot.py:102
-msgid "NAVIGATION_FIELD4_VALUE"
-msgstr ""
-
-#: bot.py:103
-msgid "NAVIGATION_FIELD5_NAME"
-msgstr ""
-
-#: bot.py:103
-msgid "NAVIGATION_FIELD5_VALUE"
-msgstr ""
-
-#: bot.py:104
-msgid "NAVIGATION_FIELD6_NAME"
-msgstr ""
-
-#: bot.py:104
-msgid "NAVIGATION_FIELD6_VALUE"
-msgstr ""
-
-#: bot.py:105
-msgid "NAVIGATION_FIELD7_NAME"
-msgstr ""
-
-#: bot.py:105
-msgid "NAVIGATION_FIELD7_VALUE"
-msgstr ""
+"#🌏other-languages - 모든 다른 언어용 채널, 비슷한 생각을 가진 사람들을 찾아보세요"
 
 #: bot.py:106
 msgid "NAVIGATION_FIELD8_NAME"
-msgstr ""
+msgstr "Eco 오디오"
 
 #: bot.py:106
 msgid "NAVIGATION_FIELD8_VALUE"
 msgstr ""
+"#🎙state-of-the-discord-chat - 토요일 AMA를 위한 질문\n"
+"#past-audio - 과거 보이스 챗\n"
+"#💬live-event-chat - #Eco FM 진행시 실시간 채팅"
 
 #: bot.py:113
 msgid "Available commands for Eco-FAQ-bot"
@@ -233,11 +242,11 @@ msgstr ":sparkles: Eco와 관련된 밈이 아닌 고 퀄리티 작품은 여기
 #: bot.py:130
 msgid "FANCYRULES_FIELD1_VALUE"
 msgstr ""
-"이곳에서는 질과 관련성을 높게 유지하기 위해 많은 작품을 삭제할 예정입니다.\n"
-"만약 어디에 제출할지 모르는 경우 아마 #:test_tube: meme-lab로가면 될 것입니"
-"다.\n"
-"애니메이션, 비디오 편집, 글, 마케팅 관련 창작물 등 모두 포함입니다.그리고 작"
-"품에 관해 편하게 토론하고 비판(친절하게) 하세요 :grinning:"
+"이곳에서는 품질과 관련성을 높게 유지하기 위해 많은 작품을 삭제할 예정입니다.\n"
+"만약 어디에 제출할지 모르는 경우 아마 #:test_tube: meme-lab로"
+"가면 될 것입니다.\n"
+"애니메이션, 비디오 편집, 글, 마케팅 관련 창작물 등 모두 포함입니다."
+"그리고 작품에 관해 편하게 토론하고 비판(친절하게) 하세요 :grinning:"
 
 #: bot.py:137
 msgid "MEMERULES_TITLE"
@@ -250,16 +259,16 @@ msgstr ":rotating_light: 몇가지 기본 규칙 :rotating_light:"
 #: bot.py:139
 msgid "MEMERULES_FIELD1_VALUE"
 msgstr ""
-"1. 밈을 '깨끗'하게 유지하세요 — 적절하지 않은 컨텐츠는 삭제되고, 경고를 받을 "
-"것입니다.:trophy:\n"
+"1. 밈을 '깨끗'하게 유지하세요 — 적절하지 않은 컨텐츠는 삭제되고, "
+"경고를 받을 것입니다.:trophy:\n"
 "2. 양보다는 질입니다. 제발:grinning:\n"
-"3. 최고 밈은 포인트를 얻고, 창의성은 리워드를 받습니다. :wink: 우리는 새로운 "
-"아이디어를 좋아합니다.\n"
-"4. 밈을 다른곳에 공유해서 포인트를 얻을수 있습니다. 멀리 갈수록 많은 포인트입"
-"니다. :thinking:\n"
+"3. 최고 밈은 포인트를 얻고, 창의성은 리워드를 받습니다. :wink: 우리는 새로운 아이디어를 좋아합니다.\n"
+"4. 밈을 다른곳에 공유해서 포인트를 얻을수 있습니다. "
+"멀리 갈수록 많은 포인트입니다. :thinking:\n"
 "5. 아이디어가 필요한가요? #:military_medal:content-bounties\n"
-"6. 밈을 반복해서 올리면 포인트를 받을 수 없습니다. 대신 쫓겨날 수 있습니다. :"
-"leg:"
+"6. 밈을 반복해서 올리면 포인트를 받을 수 없습니다. 대신 "
+"쫓겨날 수 있습니다. :leg:"
+
 
 #: bot.py:145
 msgid "MARKETINGRULES_TITLE"
@@ -272,13 +281,9 @@ msgstr ":rotating_light: 몇가지 기본 규칙 :rotating_light:"
 #: bot.py:147
 msgid "MARKETINGRULES_FIELD1_VALUE"
 msgstr ""
-"1. 모든 컨테츠를 '깨끗'하게 유지하세요 — 적절하지 않은 컨텐츠는 삭제되고 경고"
-"를 받을 것입니다.:trophy:\n"
+"1. 모든 컨테츠를 '깨끗'하게 유지하세요 — 적절하지 않은 컨텐츠는 삭제되고 경고를 받을 것입니다.:trophy:\n"
 "2. 양보다는 질입니다, 제발 :grinning:\n"
-"3. 창의성은 보상을 받을 것입니다. 독창성이 있는 작품에는 포인트 보상이 있을것"
-"입니다. (모든 종류의 매체로 지원하세요.)\n"
-"4. 우리는 Eco 로고가 들어가 있으면서 보기 좋은 모든 컨텐츠를 원합니다! :"
-"laughing:\n"
-"5. 창작물을 반복해서 올리면 포인트를 받을 수 없습니다. 대신 쫓겨날 수 있습니"
-"다. :leg:\n"
+"3. 창의성은 보상을 받을 것입니다. 독창성이 있는 작품에는 포인트 보상이 있을것입니다. (모든 종류의 매체로 지원하세요.)\n"
+"4. 우리는 Eco 로고가 들어가 있으면서 보기 좋은 모든 컨텐츠를 원합니다! :laughing:\n"
+"5. 창작물을 반복해서 올리면 포인트를 받을 수 없습니다. 대신 쫓겨날 수 있습니다. :leg:\n"
 "** 감사합니다! ** :slight_smile:"
