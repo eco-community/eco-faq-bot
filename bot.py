@@ -99,6 +99,11 @@ async def navigation(ctx, _):
     widget.add_field(name=_("NAVIGATION_FIELD1_NAME"), value=_("NAVIGATION_FIELD1_VALUE"), inline=False)
     widget.add_field(name=_("NAVIGATION_FIELD2_NAME"), value=_("NAVIGATION_FIELD2_VALUE"), inline=False)
     widget.add_field(name=_("NAVIGATION_FIELD3_NAME"), value=_("NAVIGATION_FIELD3_VALUE"), inline=False)
+    widget.add_field(name=_("NAVIGATION_FIELD4_NAME"), value=_("NAVIGATION_FIELD4_VALUE"), inline=False)
+    widget.add_field(name=_("NAVIGATION_FIELD5_NAME"), value=_("NAVIGATION_FIELD5_VALUE"), inline=False)
+    widget.add_field(name=_("NAVIGATION_FIELD6_NAME"), value=_("NAVIGATION_FIELD6_VALUE"), inline=False)
+    widget.add_field(name=_("NAVIGATION_FIELD7_NAME"), value=_("NAVIGATION_FIELD7_VALUE"), inline=False)
+    widget.add_field(name=_("NAVIGATION_FIELD8_NAME"), value=_("NAVIGATION_FIELD8_VALUE"), inline=False)
     await ctx.send(embed=widget)
 
 

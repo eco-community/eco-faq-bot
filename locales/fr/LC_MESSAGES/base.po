@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-03-27 19:51+0300\n"
+"POT-Creation-Date: 2021-04-04 03:00+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -151,55 +151,95 @@ msgstr ""
 "#🌏other-languages - pour toutes les autres langues, recherchez des personnes "
 "partageant les mêmes idées"
 
-#: bot.py:108
+#: bot.py:102
+msgid "NAVIGATION_FIELD4_NAME"
+msgstr ""
+
+#: bot.py:102
+msgid "NAVIGATION_FIELD4_VALUE"
+msgstr ""
+
+#: bot.py:103
+msgid "NAVIGATION_FIELD5_NAME"
+msgstr ""
+
+#: bot.py:103
+msgid "NAVIGATION_FIELD5_VALUE"
+msgstr ""
+
+#: bot.py:104
+msgid "NAVIGATION_FIELD6_NAME"
+msgstr ""
+
+#: bot.py:104
+msgid "NAVIGATION_FIELD6_VALUE"
+msgstr ""
+
+#: bot.py:105
+msgid "NAVIGATION_FIELD7_NAME"
+msgstr ""
+
+#: bot.py:105
+msgid "NAVIGATION_FIELD7_VALUE"
+msgstr ""
+
+#: bot.py:106
+msgid "NAVIGATION_FIELD8_NAME"
+msgstr ""
+
+#: bot.py:106
+msgid "NAVIGATION_FIELD8_VALUE"
+msgstr ""
+
+#: bot.py:113
 msgid "Available commands for Eco-FAQ-bot"
 msgstr "Voici une liste des commandes disponibles"
 
-#: bot.py:108
+#: bot.py:113
 msgid "Help"
 msgstr "Aide avec le Bot Eco-FAQ"
 
-#: bot.py:110
+#: bot.py:115
 msgid "FAQ_ECO_CMD"
 msgstr "Informations de base sur le projet"
 
-#: bot.py:111
+#: bot.py:116
 msgid "FAQ_POINTS_CMD"
 msgstr "Que sont les points Eco et comment les gagner?"
 
-#: bot.py:112
+#: bot.py:117
 msgid "FAQ_NAVIGATION_CMD"
 msgstr "Aide à la navigation sur le serveur, liste des canaux principaux"
 
-#: bot.py:113
+#: bot.py:118
 msgid "FAQ_PINNED_CMD"
 msgstr ""
 "Un conseil pour les débutants sur la façon de trouver des messages épinglés "
 "dans Discord (capture d'écran)"
 
-#: bot.py:114
+#: bot.py:119
 msgid "FAQ_FANCYRULES_CMD"
 msgstr "Consignes pour soumettre des mèmes dans le canal #top-meme"
 
-#: bot.py:115
+#: bot.py:120
 msgid "FAQ_MEMERULES_CMD"
 msgstr "Consignes générales pour les mèmes Eco"
 
-#: bot.py:116
+#: bot.py:121
 msgid "FAQ_MARKETINGRULES_CMD"
 msgstr "Consignes générales sur les règles Marketing d'Eco"
 
-#: bot.py:123
+#: bot.py:128
 msgid "FANCYRULES_TITLE"
 msgstr "Règles pour les idées fantaisies Eco"
 
-#: bot.py:125
+#: bot.py:130
 msgid "FANCYRULES_FIELD1_NAME"
 msgstr ""
 ":sparkles: Pour les travaux hors mèmes de grande qualité relatifs à Eco :"
 "sparkles:"
 
-#: bot.py:125
+#: bot.py:130
 msgid "FANCYRULES_FIELD1_VALUE"
 msgstr ""
 "Nous supprimerons activement ici pour maintenir une qualité et une "
@@ -209,15 +249,15 @@ msgstr ""
 "Animations, montage vidéo, rédaction, supports marketing ... et n'hésitez "
 "pas àdiscuter et (gentiment) critiquer le travail ici aussi :grinning:"
 
-#: bot.py:132
+#: bot.py:137
 msgid "MEMERULES_TITLE"
 msgstr "Règles des mèmes Eco"
 
-#: bot.py:134
+#: bot.py:139
 msgid "MEMERULES_FIELD1_NAME"
 msgstr ":rotating_light:QUELQUES REGLES DE BASE:rotating_light:"
 
-#: bot.py:134
+#: bot.py:139
 msgid "MEMERULES_FIELD1_VALUE"
 msgstr ""
 "1. Gardez les mèmes PROPRES - ils seront supprimés et vous serez averti le "
@@ -231,20 +271,25 @@ msgstr ""
 "6. Si vous continuez à republier votre mème, vous n'obtiendrez aucun point "
 "et vous pourriez être éjecté:leg:"
 
-#: bot.py:140
+#: bot.py:145
 msgid "MARKETINGRULES_TITLE"
 msgstr "Règles Marketing d'Eco"
 
-#: bot.py:142
+#: bot.py:147
 msgid "MARKETINGRULES_FIELD1_NAME"
 msgstr ":rotation_light: QUELQUES RÈGLES DE BASE: rotation_light:"
 
-#: bot.py:142
+#: bot.py:147
 msgid "MARKETINGRULES_FIELD1_VALUE"
 msgstr ""
-"1. S'il vous plait, gardez tout le contenu PROPRE - si un contenu est inapproprié, il sera supprimé et vous serez averti.:trophy:\n"
+"1. S'il vous plait, gardez tout le contenu PROPRE - si un contenu est "
+"inapproprié, il sera supprimé et vous serez averti.:trophy:\n"
 "2. S'il vous plaît, La qualité plutôt que la quantité: souriant: \n"
-"3. La créativité est récompensée, nous aimons l'originalité et nous la récompenserons avec des points. (Toutes les formes de médias sont encouragées.) \n"
-"4. Nous serions ravis de voir un logo Eco sur tout ce que vous pensez être un bon contenu!: Rire: \n"
-"5. Si vous continuez à republier votre travail, vous n'obtiendrez aucun point et vous pourriez être expulsé: jambe: \n"
+"3. La créativité est récompensée, nous aimons l'originalité et nous la "
+"récompenserons avec des points. (Toutes les formes de médias sont "
+"encouragées.) \n"
+"4. Nous serions ravis de voir un logo Eco sur tout ce que vous pensez être "
+"un bon contenu!: Rire: \n"
+"5. Si vous continuez à republier votre travail, vous n'obtiendrez aucun "
+"point et vous pourriez être expulsé: jambe: \n"
 "** et voilà, merci beaucoup! **: light_smile:"
