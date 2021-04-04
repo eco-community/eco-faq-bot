@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-03-20 17:10+0300\n"
+"POT-Creation-Date: 2021-04-04 03:00+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -135,7 +135,7 @@ msgid "NAVIGATION_FIELD4_NAME"
 msgstr "컨텐츠"
 
 #: bot.py:102
-msgid "NAVIGATION_FIELD1_VALUE"
+msgid "NAVIGATION_FIELD4_VALUE"
 msgstr ""
 "#🧪meme-lab - 당신의 고 퀄리티 밈을 여기로 보내세요\n"
 "#✅top memes - 봇에 의해 가장 인기있는 밈이 선택되고 여기 포스팅 됩니다\n"
@@ -172,11 +172,11 @@ msgid "NAVIGATION_FIELD6_VALUE"
 msgstr "#🛸how-to-onboard - 앱 접속 방법"
 
 #: bot.py:105
-msgid "NAVIGATION_FIELD3_NAME"
+msgid "NAVIGATION_FIELD7_NAME"
 msgstr "다른 언어 채널"
 
 #: bot.py:105
-msgid "NAVIGATION_FIELD3_VALUE"
+msgid "NAVIGATION_FIELD7_VALUE"
 msgstr ""
 "#🇰🇷kr-eco - KR-커뮤니티 메인 채널\n"
 "#🇷🇺ru-eco - RU-커뮤니티 메인 채널\n"
