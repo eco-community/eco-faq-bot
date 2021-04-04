@@ -146,7 +146,7 @@ msgstr ""
 "#🛠content-workshop - 바운티 제출물을 업그레이드하세요\n"
 "#🙏invite-thank-yous - 프로젝트에 초대한 사람에게 감사인사를 여기에 남기세요\n"
 "#🗺geo-tagging - 구글지도에서 당신의 위치를 표시하고,"
-"다른 에코 멤버들은 어디있는지 볼수 있어요\n"
+"다른 에코 멤버들은 어디있는지 볼수 있어요"
 
 #: bot.py:103
 msgid "NAVIGATION_FIELD5_NAME"
