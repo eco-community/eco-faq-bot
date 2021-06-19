@@ -1,0 +1,179 @@
+#: bot.py:69
+msgid "ECO_DESCRIPTION"
+msgstr "zxcxzc"
+
+#: bot.py:69
+msgid "ECO_TITLE"
+msgstr ""
+
+#: bot.py:71
+msgid "ECO_FIELD1_NAME"
+msgstr ""
+
+#: bot.py:71
+msgid "ECO_FIELD1_VALUE"
+msgstr ""
+
+#: bot.py:78
+msgid "POINTS_DESCRIPTION"
+msgstr ""
+
+#: bot.py:78
+msgid "POINTS_TITLE"
+msgstr ""
+
+#: bot.py:80
+msgid "POINTS_FIELD1_NAME"
+msgstr ""
+
+#: bot.py:80
+msgid "POINTS_FIELD1_VALUE"
+msgstr ""
+
+#: bot.py:89
+msgid "ECO Pinned Messages"
+msgstr ""
+
+#: bot.py:100
+msgid "NAVIGATION_TITLE"
+msgstr ""
+
+#: bot.py:100
+msgid "NAVIGATION_TITLE_DESCRIPTION"
+msgstr ""
+
+#: bot.py:102
+msgid "NAVIGATION_FIELD1_NAME"
+msgstr ""
+
+#: bot.py:102
+msgid "NAVIGATION_FIELD1_VALUE"
+msgstr ""
+
+#: bot.py:103
+msgid "NAVIGATION_FIELD2_NAME"
+msgstr ""
+
+#: bot.py:103
+msgid "NAVIGATION_FIELD2_VALUE"
+msgstr ""
+
+#: bot.py:104
+msgid "NAVIGATION_FIELD3_NAME"
+msgstr ""
+
+#: bot.py:104
+msgid "NAVIGATION_FIELD3_VALUE"
+msgstr ""
+
+#: bot.py:105
+msgid "NAVIGATION_FIELD4_NAME"
+msgstr ""
+
+#: bot.py:105
+msgid "NAVIGATION_FIELD4_VALUE"
+msgstr ""
+
+#: bot.py:106
+msgid "NAVIGATION_FIELD5_NAME"
+msgstr ""
+
+#: bot.py:106
+msgid "NAVIGATION_FIELD5_VALUE"
+msgstr ""
+
+#: bot.py:107
+msgid "NAVIGATION_FIELD6_NAME"
+msgstr ""
+
+#: bot.py:107
+msgid "NAVIGATION_FIELD6_VALUE"
+msgstr ""
+
+#: bot.py:108
+msgid "NAVIGATION_FIELD7_NAME"
+msgstr ""
+
+#: bot.py:108
+msgid "NAVIGATION_FIELD7_VALUE"
+msgstr ""
+
+#: bot.py:109
+msgid "NAVIGATION_FIELD8_NAME"
+msgstr ""
+
+#: bot.py:109
+msgid "NAVIGATION_FIELD8_VALUE"
+msgstr ""
+
+#: bot.py:116
+msgid "Available commands for Eco-FAQ-bot"
+msgstr ""
+
+#: bot.py:116
+msgid "Help"
+msgstr ""
+
+#: bot.py:118
+msgid "FAQ_ECO_CMD"
+msgstr ""
+
+#: bot.py:119
+msgid "FAQ_POINTS_CMD"
+msgstr ""
+
+#: bot.py:120
+msgid "FAQ_NAVIGATION_CMD"
+msgstr ""
+
+#: bot.py:121
+msgid "FAQ_PINNED_CMD"
+msgstr ""
+
+#: bot.py:122
+msgid "FAQ_FANCYRULES_CMD"
+msgstr ""
+
+#: bot.py:123
+msgid "FAQ_MEMERULES_CMD"
+msgstr ""
+
+#: bot.py:124
+msgid "FAQ_MARKETINGRULES_CMD"
+msgstr ""
+
+#: bot.py:131
+msgid "FANCYRULES_TITLE"
+msgstr ""
+
+#: bot.py:133
+msgid "FANCYRULES_FIELD1_NAME"
+msgstr ""
+
+#: bot.py:133
+msgid "FANCYRULES_FIELD1_VALUE"
+msgstr ""
+
+#: bot.py:140
+msgid "MEMERULES_TITLE"
+msgstr ""
+
+#: bot.py:142
+msgid "MEMERULES_FIELD1_NAME"
+msgstr ""
+
+#: bot.py:142
+msgid "MEMERULES_FIELD1_VALUE"
+msgstr ""
+
+#: bot.py:149
+msgid "MARKETINGRULES_TITLE"
+msgstr ""
+
+#: bot.py:151
+msgid "MARKETINGRULES_FIELD1_NAME"
+msgstr ""
+
+#: bot.py:151
+msgid "MARKETINGRULES_FIELD1_VALUE"
+msgstr ""

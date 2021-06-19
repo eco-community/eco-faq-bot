@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-04-04 03:00+0300\n"
+"POT-Creation-Date: 2021-06-19 23:08+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: pygettext.py 1.5\n"
 
-#: bot.py:66
+#: bot.py:69
 msgid "ECO_DESCRIPTION"
 msgstr ""
 "Eco - не банк. Eco - это единый баланс для сбережений и расходов. Он дает "
@@ -24,15 +24,15 @@ msgstr ""
 "Скоро станет доступна оплата счетов и отправка денег друзьям через Eco App. "
 "Здесь просто и выгодно вести все ваши финансовые дела."
 
-#: bot.py:66
+#: bot.py:69
 msgid "ECO_TITLE"
 msgstr "Eco"
 
-#: bot.py:68
+#: bot.py:71
 msgid "ECO_FIELD1_NAME"
 msgstr "О проекте"
 
-#: bot.py:68
+#: bot.py:71
 msgid "ECO_FIELD1_VALUE"
 msgstr ""
 "**Инвесторы:** a16z crypto, Founders Fund, Activant Capital, Slow Ventures, "
@@ -49,19 +49,19 @@ msgstr ""
 "**Покрывает ли FDIC счет Eco:** нет\n"
 "**Взимается ли плата за использование Eco:** нет"
 
-#: bot.py:75
+#: bot.py:78
 msgid "POINTS_DESCRIPTION"
 msgstr "Eco поинты нужны *только* для исследовательских целей"
 
-#: bot.py:75
+#: bot.py:78
 msgid "POINTS_TITLE"
 msgstr "Eco Points"
 
-#: bot.py:77
+#: bot.py:80
 msgid "POINTS_FIELD1_NAME"
 msgstr "Подробнее о поинтах"
 
-#: bot.py:77
+#: bot.py:80
 msgid "POINTS_FIELD1_VALUE"
 msgstr ""
 "**Чтобы проверить сколько у вас points:** введите команду `!points` в "
@@ -84,23 +84,23 @@ msgstr ""
 "И помните, поинты нужны только для исследовательских целей! Но никто не "
 "знаешь, к чему это может привести! :brain: :upside_down:"
 
-#: bot.py:86
+#: bot.py:89
 msgid "ECO Pinned Messages"
 msgstr "Как найти закрепленные сообщения?"
 
-#: bot.py:97
+#: bot.py:100
 msgid "NAVIGATION_TITLE"
 msgstr "Eco Навигация"
 
-#: bot.py:97
+#: bot.py:100
 msgid "NAVIGATION_TITLE_DESCRIPTION"
 msgstr "Навигация в Дискорде"
 
-#: bot.py:99
+#: bot.py:102
 msgid "NAVIGATION_FIELD1_NAME"
 msgstr "Основные чаты"
 
-#: bot.py:99
+#: bot.py:102
 msgid "NAVIGATION_FIELD1_VALUE"
 msgstr ""
 "Раздел **WELCOME**\n"
@@ -121,11 +121,11 @@ msgstr ""
 "можно **только** здесь\n"
 "#🔎history-submissions - предложения для  #📺the-history-channel"
 
-#: bot.py:100
+#: bot.py:103
 msgid "NAVIGATION_FIELD2_NAME"
 msgstr "Контент чаты"
 
-#: bot.py:100
+#: bot.py:103
 msgid "NAVIGATION_FIELD2_VALUE"
 msgstr ""
 "Раздел **CONTENT**\n"
@@ -147,11 +147,11 @@ msgstr ""
 "итогов\n"
 "#🦸eco-unsung-heroes - голосование за отличившихся участников раз в неделю"
 
-#: bot.py:101
+#: bot.py:104
 msgid "NAVIGATION_FIELD3_NAME"
 msgstr "Комьюнити разделы"
 
-#: bot.py:101
+#: bot.py:104
 msgid "NAVIGATION_FIELD3_VALUE"
 msgstr ""
 "Раздел **SOCIETY**\n"
@@ -167,91 +167,91 @@ msgstr ""
 "#past-audio - записи прошедших голосовых чатов\n"
 "#💬live-event-chat - чат для участников #Eco FM"
 
-#: bot.py:102
+#: bot.py:105
 msgid "NAVIGATION_FIELD4_NAME"
 msgstr ""
 
-#: bot.py:102
+#: bot.py:105
 msgid "NAVIGATION_FIELD4_VALUE"
 msgstr ""
 
-#: bot.py:103
+#: bot.py:106
 msgid "NAVIGATION_FIELD5_NAME"
 msgstr ""
 
-#: bot.py:103
+#: bot.py:106
 msgid "NAVIGATION_FIELD5_VALUE"
 msgstr ""
 
-#: bot.py:104
+#: bot.py:107
 msgid "NAVIGATION_FIELD6_NAME"
 msgstr ""
 
-#: bot.py:104
+#: bot.py:107
 msgid "NAVIGATION_FIELD6_VALUE"
 msgstr ""
 
-#: bot.py:105
+#: bot.py:108
 msgid "NAVIGATION_FIELD7_NAME"
 msgstr ""
 
-#: bot.py:105
+#: bot.py:108
 msgid "NAVIGATION_FIELD7_VALUE"
 msgstr ""
 
-#: bot.py:106
+#: bot.py:109
 msgid "NAVIGATION_FIELD8_NAME"
 msgstr ""
 
-#: bot.py:106
+#: bot.py:109
 msgid "NAVIGATION_FIELD8_VALUE"
 msgstr ""
 
-#: bot.py:113
+#: bot.py:116
 msgid "Available commands for Eco-FAQ-bot"
 msgstr "Ниже приведен список доступных команд"
 
-#: bot.py:113
+#: bot.py:116
 msgid "Help"
 msgstr "Помощь с Eco-FAQ ботом"
 
-#: bot.py:115
+#: bot.py:118
 msgid "FAQ_ECO_CMD"
 msgstr "Основная информация о проекте"
 
-#: bot.py:116
+#: bot.py:119
 msgid "FAQ_POINTS_CMD"
 msgstr "Что такое поинты и как их заработать"
 
-#: bot.py:117
+#: bot.py:120
 msgid "FAQ_NAVIGATION_CMD"
 msgstr "Помощь с навигацией на сервере, список основных каналов"
 
-#: bot.py:118
+#: bot.py:121
 msgid "FAQ_PINNED_CMD"
 msgstr "Как найти закрепленные сообщения в дискорде (скриншот)"
 
-#: bot.py:119
+#: bot.py:122
 msgid "FAQ_FANCYRULES_CMD"
 msgstr "Правила для работ в канале #🖼eco-art"
 
-#: bot.py:120
+#: bot.py:123
 msgid "FAQ_MEMERULES_CMD"
 msgstr "Общие правила Eco мемов"
 
-#: bot.py:121
+#: bot.py:124
 msgid "FAQ_MARKETINGRULES_CMD"
 msgstr "Правила для работ в канале #📹marketing-materials"
 
-#: bot.py:128
+#: bot.py:131
 msgid "FANCYRULES_TITLE"
 msgstr "Правила Eco Art"
 
-#: bot.py:130
+#: bot.py:133
 msgid "FANCYRULES_FIELD1_NAME"
 msgstr ":sparkles: для работ высокого качества (не мемов) об Eco :sparkles: "
 
-#: bot.py:130
+#: bot.py:133
 msgid "FANCYRULES_FIELD1_VALUE"
 msgstr ""
 "Мы будем тщательно модерировать работы для поддержания высокого уровня "
@@ -261,15 +261,15 @@ msgstr ""
 "Анимации, видео-монтаж, текстовые работы, маркетинговые материалы (цифровые  "
 "и физические)... а так же добрая критика и обсуждение работ :grinning:"
 
-#: bot.py:137
+#: bot.py:140
 msgid "MEMERULES_TITLE"
 msgstr "Правила Eco мемов"
 
-#: bot.py:139
+#: bot.py:142
 msgid "MEMERULES_FIELD1_NAME"
 msgstr ":rotating_light:НЕСКОЛЬКО КЛЮЧЕВЫХ ПРАВИЛ:rotating_light:"
 
-#: bot.py:139
+#: bot.py:142
 msgid "MEMERULES_FIELD1_VALUE"
 msgstr ""
 "1. Держите мемы в ЧИСТОТЕ - они будут удалены, и вы будете предупреждены, "
@@ -283,15 +283,15 @@ msgstr ""
 "6. Если вы будете репостить свой мем снова и снова, вы не получите поинтов  "
 "и вас могут кикнуть :leg:"
 
-#: bot.py:145
+#: bot.py:149
 msgid "MARKETINGRULES_TITLE"
 msgstr "Правила маркетинговых материалов Eco"
 
-#: bot.py:147
+#: bot.py:151
 msgid "MARKETINGRULES_FIELD1_NAME"
 msgstr ":rotating_light:НЕСКОЛЬКО КЛЮЧЕВЫХ ПРАВИЛ:rotating_light:"
 
-#: bot.py:147
+#: bot.py:151
 msgid "MARKETINGRULES_FIELD1_VALUE"
 msgstr ""
 "1. Контент должен быть ЧИСТЫМ — если какой-либо контент окажется неуместным, "

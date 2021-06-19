@@ -15,6 +15,7 @@ ru = gettext.translation("base", localedir="locales", languages=["ru"])
 en = gettext.translation("base", localedir="locales", languages=["en"])
 fr = gettext.translation("base", localedir="locales", languages=["fr"])
 kr = gettext.translation("base", localedir="locales", languages=["kr"])
+jp = gettext.translation("base", localedir="locales", languages=["jp"])
 en.install()
 
 locales = {
@@ -26,6 +27,8 @@ locales = {
     config.FR_CHANNEL_ID: fr,
     # KR
     config.KR_CHANNEL_ID: kr,
+    # JP
+    config.JP_CHANNEL_ID: jp
 }
 
 
@@ -138,6 +141,7 @@ async def meme_rules(ctx, _):
     widget.set_thumbnail(url="https://eco-bots.s3.eu-north-1.amazonaws.com/eco_large.png")
     widget.add_field(name=_("MEMERULES_FIELD1_NAME"), value=_("MEMERULES_FIELD1_VALUE"), inline=False)
     await ctx.send(embed=widget)
+
 
 @bot.command("marketingrules")
 @resolve_language

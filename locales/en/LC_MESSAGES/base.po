@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-04-04 03:00+0300\n"
+"POT-Creation-Date: 2021-06-19 23:08+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: pygettext.py 1.5\n"
 
-#: bot.py:66
+#: bot.py:69
 msgid "ECO_DESCRIPTION"
 msgstr ""
 "Eco is not a bank. Eco is a single balance that gives you up to 5% APY on "
@@ -23,15 +23,15 @@ msgstr ""
 "pay your bills and send money to friends through Eco. It's a simple, "
 "rewarding place for your whole financial life."
 
-#: bot.py:66
+#: bot.py:69
 msgid "ECO_TITLE"
 msgstr "Eco"
 
-#: bot.py:68
+#: bot.py:71
 msgid "ECO_FIELD1_NAME"
 msgstr "About the project"
 
-#: bot.py:68
+#: bot.py:71
 msgid "ECO_FIELD1_VALUE"
 msgstr ""
 "**Investors:** a16z crypto, Founders Fund, Activant Capital, Slow Ventures, "
@@ -49,19 +49,19 @@ msgstr ""
 "**Are funds transferred to Eco all insured by FDIC?:** no\n"
 "**Is there a fee for using Eco:** no"
 
-#: bot.py:75
+#: bot.py:78
 msgid "POINTS_DESCRIPTION"
 msgstr "Eco points are for research purposes only"
 
-#: bot.py:75
+#: bot.py:78
 msgid "POINTS_TITLE"
 msgstr "Eco Points"
 
-#: bot.py:77
+#: bot.py:80
 msgid "POINTS_FIELD1_NAME"
 msgstr "Learn more about Eco points"
 
-#: bot.py:77
+#: bot.py:80
 msgid "POINTS_FIELD1_VALUE"
 msgstr ""
 "**To check how many points you have:** enter the command `!points` in the "
@@ -84,23 +84,23 @@ msgstr ""
 "know what can happen when something starts out as a toy! :brain: :"
 "upside_down:"
 
-#: bot.py:86
+#: bot.py:89
 msgid "ECO Pinned Messages"
 msgstr "How to find pinned messages?"
 
-#: bot.py:97
+#: bot.py:100
 msgid "NAVIGATION_TITLE"
 msgstr "Eco Navigation"
 
-#: bot.py:97
+#: bot.py:100
 msgid "NAVIGATION_TITLE_DESCRIPTION"
 msgstr "Instructions for navigating on the server"
 
-#: bot.py:99
+#: bot.py:102
 msgid "NAVIGATION_FIELD1_NAME"
 msgstr "Welcome"
 
-#: bot.py:99
+#: bot.py:102
 msgid "NAVIGATION_FIELD1_VALUE"
 msgstr ""
 "#🏁start-here - move from Layer 0 to Layer 1 here\n"
@@ -109,21 +109,21 @@ msgstr ""
 "#🔈eco-twitter - retweets from Eco twitter\n"
 "#📺the-history-channel - Great moments in Eco community history"
 
-#: bot.py:100
+#: bot.py:103
 msgid "NAVIGATION_FIELD2_NAME"
 msgstr "Discussions"
 
-#: bot.py:100
+#: bot.py:103
 msgid "NAVIGATION_FIELD2_VALUE"
 msgstr ""
 "#🚀general - general discussion about the project in English\n"
 "#📈crypto-chat - chat about crypto, other than Eco"
 
-#: bot.py:101
+#: bot.py:104
 msgid "NAVIGATION_FIELD3_NAME"
 msgstr "Mechanics"
 
-#: bot.py:101
+#: bot.py:104
 msgid "NAVIGATION_FIELD3_VALUE"
 msgstr ""
 "#🧮eco-nomics - communication about the Eco economy and other related "
@@ -134,11 +134,11 @@ msgstr ""
 "#🏧check-your-points - see how many points you have\n"
 "#🔎history-submissions - submissions for #📺the-history-channel"
 
-#: bot.py:102
+#: bot.py:105
 msgid "NAVIGATION_FIELD4_NAME"
 msgstr "Content"
 
-#: bot.py:102
+#: bot.py:105
 msgid "NAVIGATION_FIELD4_VALUE"
 msgstr ""
 "#🧪meme-lab - send your memes here, only high-quality ones\n"
@@ -153,11 +153,11 @@ msgstr ""
 "#🗺geo-tagging - you can pin your location on Google Maps and see where other "
 "members of the Eco community are from"
 
-#: bot.py:103
+#: bot.py:106
 msgid "NAVIGATION_FIELD5_NAME"
 msgstr "Current Bounties"
 
-#: bot.py:103
+#: bot.py:106
 msgid "NAVIGATION_FIELD5_VALUE"
 msgstr ""
 "#🏅content-bounties - the most recent information about bounty contests is "
@@ -169,19 +169,19 @@ msgstr ""
 "results announced by admins\n"
 "#🦸eco-unsung-heroes - voting for major contributors among community each week"
 
-#: bot.py:104
+#: bot.py:107
 msgid "NAVIGATION_FIELD6_NAME"
 msgstr "Society"
 
-#: bot.py:104
+#: bot.py:107
 msgid "NAVIGATION_FIELD6_VALUE"
 msgstr "#🛸how-to-onboard - read how to get access to the App"
 
-#: bot.py:105
+#: bot.py:108
 msgid "NAVIGATION_FIELD7_NAME"
 msgstr "Other Languages"
 
-#: bot.py:105
+#: bot.py:108
 msgid "NAVIGATION_FIELD7_VALUE"
 msgstr ""
 "#🇰🇷kr-eco - the main channel for the KR-community\n"
@@ -190,64 +190,63 @@ msgstr ""
 "#🇫🇷fr-eco - the main channel for the FR-community\n"
 "#🌏other-languages - for all other languages, search for like-minded people"
 
-#: bot.py:106
+#: bot.py:109
 msgid "NAVIGATION_FIELD8_NAME"
 msgstr "Eco Audio"
 
-#: bot.py:106
+#: bot.py:109
 msgid "NAVIGATION_FIELD8_VALUE"
 msgstr ""
 "#🎙state-of-the-discord-chat - questions for Saturday AMA\n"
 "#past-audio - recordings of past voice chats\n"
 "#💬live-event-chat - live chat for when #Eco FM is active"
 
-
-#: bot.py:113
+#: bot.py:116
 msgid "Available commands for Eco-FAQ-bot"
 msgstr "Below is a list of available commands"
 
-#: bot.py:113
+#: bot.py:116
 msgid "Help"
 msgstr "Help with Eco-FAQ Bot"
 
-#: bot.py:115
+#: bot.py:118
 msgid "FAQ_ECO_CMD"
 msgstr "Basic information about the project"
 
-#: bot.py:116
+#: bot.py:119
 msgid "FAQ_POINTS_CMD"
 msgstr "What are the Eco points and how to earn them?"
 
-#: bot.py:117
+#: bot.py:120
 msgid "FAQ_NAVIGATION_CMD"
 msgstr "Help with server navigation, list of main channels"
 
-#: bot.py:118
+#: bot.py:121
 msgid "FAQ_PINNED_CMD"
 msgstr ""
 "A hint for beginners on how to find pinned messages in Discord (screenshot)"
 
-#: bot.py:119
+#: bot.py:122
 msgid "FAQ_FANCYRULES_CMD"
 msgstr "Guidelines for submitting memes in the #🖼eco-art channel"
 
-#: bot.py:120
+#: bot.py:123
 msgid "FAQ_MEMERULES_CMD"
 msgstr "General Eco Meme guidelines"
 
-#: bot.py:121
+#: bot.py:124
 msgid "FAQ_MARKETINGRULES_CMD"
 msgstr "General Eco Marketing guidelines"
 
-#: bot.py:128
+#: bot.py:131
 msgid "FANCYRULES_TITLE"
 msgstr "Eco Art Rules"
 
-#: bot.py:130
+#: bot.py:133
 msgid "FANCYRULES_FIELD1_NAME"
 msgstr ":sparkles: For high-quality non-meme work related to Eco :sparkles: "
 
-#: bot.py:130
+#: bot.py:133
 msgid "FANCYRULES_FIELD1_VALUE"
 msgstr ""
 "We will aggressively delete in here to keep quality and relevance high.\n"
@@ -256,15 +255,15 @@ msgstr ""
 "Animations, video editing, writing, marketing materials... and feel free to "
 "discuss and (kindly) critique work in here as well :grinning:"
 
-#: bot.py:137
+#: bot.py:140
 msgid "MEMERULES_TITLE"
 msgstr "Eco Meme Rules"
 
-#: bot.py:139
+#: bot.py:142
 msgid "MEMERULES_FIELD1_NAME"
 msgstr ":rotating_light:A FEW GROUND RULES:rotating_light:"
 
-#: bot.py:139
+#: bot.py:142
 msgid "MEMERULES_FIELD1_VALUE"
 msgstr ""
 "1. Keep the memes CLEAN — they will be deleted and you will be warned if any "
@@ -277,15 +276,15 @@ msgstr ""
 "6. If you keep reposting your meme, you won’t get any points and may get "
 "kicked:leg:"
 
-#: bot.py:145
+#: bot.py:149
 msgid "MARKETINGRULES_TITLE"
 msgstr "Eco Marketing Rules"
 
-#: bot.py:147
+#: bot.py:151
 msgid "MARKETINGRULES_FIELD1_NAME"
 msgstr ":rotating_light: A FEW GROUND RULES :rotating_light:"
 
-#: bot.py:147
+#: bot.py:151
 msgid "MARKETINGRULES_FIELD1_VALUE"
 msgstr ""
 "1. Keep all content CLEAN please — it will be deleted and you will be warned "
