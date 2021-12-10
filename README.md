@@ -2,6 +2,8 @@
 
 A bot that can answer FAQ questions related to ECO Discord
 
+**For more on this bot and all the rest of the Eco Community bots, check out [this post](https://echo.mirror.xyz/GlFuqSbTZOLDl0LA7eDa0Yibhqq6IHNUC48nd3WJZQw).**
+
 # Bot can:
 * Show basic information about the project
 * Explain about ECO points
